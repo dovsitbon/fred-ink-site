@@ -1,0 +1,27 @@
+{
+  "_note": "Bandeau du haut. Une annonce s'affiche entre from et to (inclus), la plus récente l'emporte ; sinon l'état de l'agenda. kind : soiree, guest, flash, agenda. agenda.status : ouvert ou complet.",
+  "agenda": {
+    "status": "ouvert",
+    "text": { "fr": "Agenda ouvert : envoyez votre projet, l'artiste vous rappelle pour en parler.", "en": "Books are open: send your idea and the artist will call you back to talk it through." }
+  },
+  "items": [
+    {
+      "id": "soiree-2026-10-24",
+      "kind": "soiree",
+      "from": "2026-10-10",
+      "to": "2026-10-24",
+      "text": { "fr": "Soirée au studio samedi 24 octobre, de 10 h à 22 h 30 : offres piercing et bijoux, tirage au sort, apéritif.", "en": "Studio night on Saturday 24 October, 10am to 10.30pm: piercing and jewellery offers, prize draw, drinks." },
+      "link": { "fr": "Infos sur Instagram", "en": "Details on Instagram" },
+      "href": "https://www.instagram.com/fredinktattoostudio/"
+    },
+    {
+      "id": "guest-exemple",
+      "kind": "guest",
+      "from": "2000-01-01",
+      "to": "2000-01-01",
+      "text": { "fr": "Artiste invité au studio : nom et dates à venir.", "en": "Guest artist at the studio: name and dates to come." },
+      "link": { "fr": "Proposer un projet", "en": "Send an idea" },
+      "href": "project"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# Fred-Ink Tattoo Studio
+
+> Salon de tatouage et piercing à Amiens (France), 25 rue du Général Leclerc, 80000 Amiens. Huit tatoueurs, deux perceurs, depuis 19 ans. Téléphone : 03 60 24 54 62. Instagram : @fredinktattoostudio. Note Google 4,7/5 (348 avis, novembre 2026).
+
+Horaires : mardi au vendredi 10 h – 18 h 30, samedi 9 h 30 – 18 h, fermé dimanche et lundi.
+
+## Pages
+- [Accueil](https://fred-ink-tattoo.vercel.app/fr) : artistes, projets, piercing, hygiène, conseils, infos pratiques, FAQ
+- [Proposer mon projet](https://fred-ink-tattoo.vercel.app/fr/proposer-mon-projet) : formulaire de demande de tatouage
+- [Tatouage réaliste](https://fred-ink-tattoo.vercel.app/fr/tatouage-realiste-amiens)
+- [Tatouage floral et ornemental](https://fred-ink-tattoo.vercel.app/fr/tatouage-floral-ornemental-amiens)
+- [Tatouage fineline](https://fred-ink-tattoo.vercel.app/fr/tatouage-fineline-amiens)
+- [Tatouage couleur](https://fred-ink-tattoo.vercel.app/fr/tatouage-couleur-amiens)
+- [Tatouage chicano](https://fred-ink-tattoo.vercel.app/fr/tatouage-chicano-amiens)
+- [Tatouage graphique et blackwork](https://fred-ink-tattoo.vercel.app/fr/tatouage-graphique-blackwork-amiens)
+- [Cover de tatouage](https://fred-ink-tattoo.vercel.app/fr/cover-tatouage-amiens)
+- [Piercing à Amiens](https://fred-ink-tattoo.vercel.app/fr/piercing-amiens)
+- [English version](https://fred-ink-tattoo.vercel.app/en)

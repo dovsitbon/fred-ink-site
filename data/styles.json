@@ -1,0 +1,12 @@
+{
+  "_note": "Tuiles de styles et pages SEO par style. Textes dans locales/*.json → styles.<id>. image : pièce de couverture (null pour cover tant qu'aucun avant/après n'est fourni).",
+  "items": [
+    { "id": "realisme", "slug": { "fr": "tatouage-realiste-amiens", "en": "realism-tattoo-amiens" }, "image": "/media/projets/temple-zeus-belier-avant-bras.jpg" },
+    { "id": "floral", "slug": { "fr": "tatouage-floral-ornemental-amiens", "en": "floral-ornamental-tattoo-amiens" }, "image": "/media/projets/pivoine-ornement-avant-bras.jpg" },
+    { "id": "fineline", "slug": { "fr": "tatouage-fineline-amiens", "en": "fine-line-tattoo-amiens" }, "image": "/media/projets/papillons-dos-nuque.jpg" },
+    { "id": "couleur", "slug": { "fr": "tatouage-couleur-amiens", "en": "colour-tattoo-amiens" }, "image": "/media/projets/manchettes-japonaises.jpg" },
+    { "id": "chicano", "slug": { "fr": "tatouage-chicano-amiens", "en": "chicano-tattoo-amiens" }, "image": "/media/projets/chicano-hope-avant-bras.jpg" },
+    { "id": "graphique", "slug": { "fr": "tatouage-graphique-blackwork-amiens", "en": "blackwork-graphic-tattoo-amiens" }, "image": "/media/projets/scolopendre-lys-rouges.jpg" },
+    { "id": "cover", "slug": { "fr": "cover-tatouage-amiens", "en": "tattoo-cover-up-amiens" }, "image": null }
+  ]
+}

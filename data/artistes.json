@@ -1,0 +1,11 @@
+{
+  "_note": "Prénoms, styles, portraits et bios À CONFIRMER avec le studio. name: null → le site affiche le pseudo Instagram. photo: /media/artistes/<slug>.jpg une fois la photo prise. styles: ids de styles.json. Les pièces d'un artiste viennent de projets.json (champ artist).",
+  "items": [
+    { "slug": "fred", "handle": "fredinktattoo", "name": "Fred", "role": { "fr": "Fondateur du studio", "en": "Studio founder" }, "styles": [], "photo": null, "bio": null },
+    { "slug": "silent-scream-ink", "handle": "silent_screamink", "name": null, "role": null, "styles": [], "photo": null, "bio": null },
+    { "slug": "mappink", "handle": "mappink_", "name": null, "role": null, "styles": [], "photo": null, "bio": null },
+    { "slug": "inkyabe", "handle": "inkyabe", "name": null, "role": null, "styles": [], "photo": null, "bio": null },
+    { "slug": "p2b-ink", "handle": "p2b.ink", "name": null, "role": null, "styles": [], "photo": null, "bio": null },
+    { "slug": "emy", "handle": "emy_fredinktattoo", "name": "Emy", "role": null, "styles": [], "photo": null, "bio": null }
+  ]
+}

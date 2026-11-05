@@ -1,0 +1,13 @@
+{
+  "_note": "Prix « à partir de » en euros, bijou de première pose compris ou non : À REMPLIR avec le studio. price: null → « Prix au studio ».",
+  "items": [
+    { "id": "lobe", "name": { "fr": "Lobe", "en": "Earlobe" }, "price": null },
+    { "id": "helix", "name": { "fr": "Hélix, conch, tragus", "en": "Helix, conch, tragus" }, "price": null },
+    { "id": "daith", "name": { "fr": "Daith, rook", "en": "Daith, rook" }, "price": null },
+    { "id": "nez", "name": { "fr": "Narine, septum", "en": "Nostril, septum" }, "price": null },
+    { "id": "levre", "name": { "fr": "Lèvre, labret, medusa", "en": "Lip, labret, medusa" }, "price": null },
+    { "id": "langue", "name": { "fr": "Langue", "en": "Tongue" }, "price": null },
+    { "id": "nombril", "name": { "fr": "Nombril", "en": "Navel" }, "price": null },
+    { "id": "arcade", "name": { "fr": "Arcade, surface", "en": "Eyebrow, surface" }, "price": null }
+  ]
+}

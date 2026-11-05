@@ -1,0 +1,601 @@
+{
+ "_note": "Pièces du portfolio. artist : slug de artistes.json (À CONFIRMER, null = non affiché). sessions : nombre de séances (null = non affiché). zone : clé de locales zones. styles : le premier est le style principal.",
+ "items": [
+  {
+   "id": "scolopendre-lys-rouges",
+   "image": "/media/projets/scolopendre-lys-rouges.jpg",
+   "styles": [
+    "graphique"
+   ],
+   "zone": "avant-bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Scolopendre noire et lys araignées rouges",
+    "en": "Black centipede and red spider lilies"
+   }
+  },
+  {
+   "id": "temple-zeus-belier-avant-bras",
+   "image": "/media/projets/temple-zeus-belier-avant-bras.jpg",
+   "styles": [
+    "realisme"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Temple grec frappé par la foudre de Zeus et tête de bélier, en noir et gris",
+    "en": "Greek temple struck by Zeus’s lightning and a ram’s head, black and grey"
+   }
+  },
+  {
+   "id": "pivoine-ornement-avant-bras",
+   "image": "/media/projets/pivoine-ornement-avant-bras.jpg",
+   "styles": [
+    "floral"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Pivoine et dentelle ornementale",
+    "en": "Peony and ornamental lace"
+   }
+  },
+  {
+   "id": "manchettes-japonaises",
+   "image": "/media/projets/manchettes-japonaises.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "bras-torse",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Deux manchettes japonaises en couleur, dragon et carpes",
+    "en": "Two Japanese colour sleeves with dragon and koi"
+   }
+  },
+  {
+   "id": "papillons-dos-nuque",
+   "image": "/media/projets/papillons-dos-nuque.jpg",
+   "styles": [
+    "fineline",
+    "floral"
+   ],
+   "zone": "dos",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Papillons et fleurs du haut du dos à la nuque",
+    "en": "Butterflies and flowers across the upper back and neck"
+   }
+  },
+  {
+   "id": "chicano-hope-avant-bras",
+   "image": "/media/projets/chicano-hope-avant-bras.jpg",
+   "styles": [
+    "chicano",
+    "realisme"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Visage féminin et lettrage Hope, style chicano",
+    "en": "Woman’s face with Hope lettering, chicano style"
+   }
+  },
+  {
+   "id": "oni-epaule-bras",
+   "image": "/media/projets/oni-epaule-bras.jpg",
+   "styles": [
+    "realisme"
+   ],
+   "zone": "epaule",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Masque oni et arbre en noir et gris, de l’épaule au bras",
+    "en": "Black and grey oni mask and tree, shoulder to arm"
+   }
+  },
+  {
+   "id": "lapin-lavande-avant-bras",
+   "image": "/media/projets/lapin-lavande-avant-bras.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "avant-bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Lapin et lavande, néo-traditionnel",
+    "en": "Rabbit and lavender, neo-traditional"
+   }
+  },
+  {
+   "id": "portrait-realiste-avant-bras",
+   "image": "/media/projets/portrait-realiste-avant-bras.jpg",
+   "styles": [
+    "realisme"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Portrait réaliste en noir et gris",
+    "en": "Black and grey realistic portrait"
+   }
+  },
+  {
+   "id": "rose-mandala-avant-bras",
+   "image": "/media/projets/rose-mandala-avant-bras.jpg",
+   "styles": [
+    "floral"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Rose, mandala et pivoine jusqu’au poignet",
+    "en": "Rose, mandala and peony down to the wrist"
+   }
+  },
+  {
+   "id": "oiseau-botanique-avant-bras",
+   "image": "/media/projets/oiseau-botanique-avant-bras.jpg",
+   "styles": [
+    "fineline",
+    "floral"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Oiseau et fleurs des champs en trait fin",
+    "en": "Fine line bird and wildflowers"
+   }
+  },
+  {
+   "id": "catrina-mollet",
+   "image": "/media/projets/catrina-mollet.jpg",
+   "styles": [
+    "chicano",
+    "realisme"
+   ],
+   "zone": "mollet",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Catrina et rose, noir et gris",
+    "en": "Catrina and rose, black and grey"
+   }
+  },
+  {
+   "id": "papillon-de-nuit-poitrine",
+   "image": "/media/projets/papillon-de-nuit-poitrine.jpg",
+   "styles": [
+    "graphique"
+   ],
+   "zone": "poitrine",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Papillon de nuit et étoile, blackwork",
+    "en": "Moth and star, blackwork"
+   }
+  },
+  {
+   "id": "manga-super-guerrier-avant-bras",
+   "image": "/media/projets/manga-super-guerrier-avant-bras.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "avant-bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Guerrier de manga en couleur vive",
+    "en": "Manga warrior in vivid colour"
+   }
+  },
+  {
+   "id": "hibou-tournesol-bras",
+   "image": "/media/projets/hibou-tournesol-bras.jpg",
+   "styles": [
+    "realisme",
+    "floral"
+   ],
+   "zone": "bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Hibou au regard ambré, tournesol, papillon et fleurs",
+    "en": "Owl with an amber eye, sunflower, butterfly and blossoms"
+   }
+  },
+  {
+   "id": "floral-ornemental-avant-bras",
+   "image": "/media/projets/floral-ornemental-avant-bras.jpg",
+   "styles": [
+    "floral"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Fleurs et motifs ornementaux en symétrie",
+    "en": "Symmetrical flowers and ornaments"
+   }
+  },
+  {
+   "id": "soleil-lune-avant-bras",
+   "image": "/media/projets/soleil-lune-avant-bras.jpg",
+   "styles": [
+    "fineline",
+    "graphique"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Soleil et lune, rayons au trait",
+    "en": "Sun and moon with linework rays"
+   }
+  },
+  {
+   "id": "coeur-sacre-flamme",
+   "image": "/media/projets/coeur-sacre-flamme.jpg",
+   "styles": [
+    "graphique"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Cœur sacré, flamme, dague et barbelés",
+    "en": "Sacred heart with flame, dagger and barbed wire"
+   }
+  },
+  {
+   "id": "anime-neon-avant-bras",
+   "image": "/media/projets/anime-neon-avant-bras.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "avant-bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Héroïne d’anime et ville néon",
+    "en": "Anime heroine and neon city"
+   }
+  },
+  {
+   "id": "montre-gousset-baroque",
+   "image": "/media/projets/montre-gousset-baroque.jpg",
+   "styles": [
+    "realisme",
+    "floral"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Montre à gousset et ornements baroques",
+    "en": "Pocket watch with baroque ornaments"
+   }
+  },
+  {
+   "id": "ornemental-main-poignet",
+   "image": "/media/projets/ornemental-main-poignet.jpg",
+   "styles": [
+    "floral"
+   ],
+   "zone": "main",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Ornemental de l’avant-bras à la main",
+    "en": "Ornamental work from forearm to hand"
+   }
+  },
+  {
+   "id": "paresseux-pura-vida",
+   "image": "/media/projets/paresseux-pura-vida.jpg",
+   "styles": [
+    "fineline"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Paresseux sur sa branche, lettrage Pura Vida",
+    "en": "Sloth on a branch with Pura Vida lettering"
+   }
+  },
+  {
+   "id": "ornemental-blackwork-bras",
+   "image": "/media/projets/ornemental-blackwork-bras.jpg",
+   "styles": [
+    "graphique",
+    "floral"
+   ],
+   "zone": "bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Ornemental en aplats noirs",
+    "en": "Ornamental blackwork in solid black"
+   }
+  },
+  {
+   "id": "fiole-soleil-avant-bras",
+   "image": "/media/projets/fiole-soleil-avant-bras.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "avant-bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Fiole, soleil et cœur de rubis, fleurs",
+    "en": "Bottle, sun and ruby heart with flowers"
+   }
+  },
+  {
+   "id": "lion-lettrage-avant-bras",
+   "image": "/media/projets/lion-lettrage-avant-bras.jpg",
+   "styles": [
+    "realisme"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Lion réaliste coupé par une flèche, avec lettrage",
+    "en": "Realistic lion split by an arrow, with lettering"
+   }
+  },
+  {
+   "id": "roses-mandala-bras",
+   "image": "/media/projets/roses-mandala-bras.jpg",
+   "styles": [
+    "floral"
+   ],
+   "zone": "bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Roses et mandala en ombrage doux",
+    "en": "Roses and mandala in soft shading"
+   }
+  },
+  {
+   "id": "bebe-hercule-avant-bras",
+   "image": "/media/projets/bebe-hercule-avant-bras.jpg",
+   "styles": [
+    "fineline"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Hercule enfant, trait fin",
+    "en": "Baby Hercules in fine line"
+   }
+  },
+  {
+   "id": "oeil-bouche-avant-bras",
+   "image": "/media/projets/oeil-bouche-avant-bras.jpg",
+   "styles": [
+    "graphique",
+    "couleur"
+   ],
+   "zone": "avant-bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Œil rouge, bouche et lys, inspiration manga",
+    "en": "Red eye, mouth and lily, manga-inspired"
+   }
+  },
+  {
+   "id": "dragon-vert-bras",
+   "image": "/media/projets/dragon-vert-bras.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Dragon vert et orbe de lumière",
+    "en": "Green dragon and glowing orb"
+   }
+  },
+  {
+   "id": "motard-ville-avant-bras",
+   "image": "/media/projets/motard-ville-avant-bras.jpg",
+   "styles": [
+    "realisme"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Motard et skyline en noir et gris",
+    "en": "Biker and city skyline in black and grey"
+   }
+  },
+  {
+   "id": "ornemental-epaule-bras",
+   "image": "/media/projets/ornemental-epaule-bras.jpg",
+   "styles": [
+    "floral"
+   ],
+   "zone": "epaule",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Manchette ornementale et florale, de l’épaule au coude",
+    "en": "Ornamental floral sleeve, shoulder to elbow"
+   }
+  },
+  {
+   "id": "renard-manchette-couleur",
+   "image": "/media/projets/renard-manchette-couleur.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Manchette couleur avec renard",
+    "en": "Colour sleeve with a fox"
+   }
+  },
+  {
+   "id": "gorille-guerrier-avant-bras",
+   "image": "/media/projets/gorille-guerrier-avant-bras.jpg",
+   "styles": [
+    "realisme"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Guerrier en armure, réalisme sombre",
+    "en": "Armoured warrior, dark realism"
+   }
+  },
+  {
+   "id": "lys-avant-bras",
+   "image": "/media/projets/lys-avant-bras.jpg",
+   "styles": [
+    "floral",
+    "fineline"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Lys en trait fin",
+    "en": "Fine line lilies"
+   }
+  },
+  {
+   "id": "manchette-dessin-anime",
+   "image": "/media/projets/manchette-dessin-anime.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Manchette de personnages de dessin animé",
+    "en": "Sleeve of cartoon characters"
+   }
+  },
+  {
+   "id": "grue-bambou-avant-bras",
+   "image": "/media/projets/grue-bambou-avant-bras.jpg",
+   "styles": [
+    "realisme"
+   ],
+   "zone": "avant-bras",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Grue du Japon, bambous et fleurs, touche de rouge",
+    "en": "Japanese crane, bamboo and blossoms, a touch of red"
+   }
+  },
+  {
+   "id": "rose-ornement-main",
+   "image": "/media/projets/rose-ornement-main.jpg",
+   "styles": [
+    "floral"
+   ],
+   "zone": "main",
+   "color": false,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Rose et volutes jusqu’à la main",
+    "en": "Rose and scrolls reaching the hand"
+   }
+  },
+  {
+   "id": "coeur-anatomique-main",
+   "image": "/media/projets/coeur-anatomique-main.jpg",
+   "styles": [
+    "couleur",
+    "realisme"
+   ],
+   "zone": "avant-bras",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Cœur anatomique tenu par une main",
+    "en": "Anatomical heart held in a hand"
+   }
+  },
+  {
+   "id": "hirondelle-omoplate",
+   "image": "/media/projets/hirondelle-omoplate.jpg",
+   "styles": [
+    "couleur"
+   ],
+   "zone": "omoplate",
+   "color": true,
+   "artist": null,
+   "sessions": null,
+   "alt": {
+    "fr": "Hirondelle en vol, couleur",
+    "en": "Swallow in flight, colour"
+   }
+  }
+ ]
+}

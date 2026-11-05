@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "title": "Salon de tatouage et piercing à Amiens | Fred-Ink Tattoo Studio",
+    "description": "Fred-Ink Tattoo Studio, 25 rue du Général Leclerc à Amiens : tatouage réaliste, floral, fineline, couleur, chicano, cover et piercing. Huit tatoueurs, deux perceurs. Envoyez votre projet en ligne.",
+    "ogAlt": "Logo Fred-Ink Tattoo Studio et manchette spartiate réaliste en noir, gris et rouge"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "home": "Fred-Ink Tattoo Studio, accueil",
+    "menu": "Menu",
+    "close": "Fermer le menu",
+    "artists": "Artistes",
+    "projects": "Projets",
+    "piercing": "Piercing",
+    "advice": "Conseils",
+    "infos": "Infos",
+    "lang": "Langue",
+    "instagram": "Instagram du studio",
+    "call": "Appeler",
+    "cta": "Proposer mon projet"
+  },
+  "intro": { "skip": "Passer" },
+  "announce": { "close": "Fermer le bandeau", "agendaFull": "Agenda complet pour le moment : vous pouvez tout de même envoyer votre projet, on vous recontacte dès qu'une date se libère." },
+  "hero": {
+    "eyebrow": "Tatouage & piercing · Amiens · depuis 19 ans",
+    "title": "Votre idée, notre trait",
+    "lead": "Huit tatoueurs et deux perceurs, rue du Général Leclerc. Racontez-nous ce que vous avez en tête : on dessine avec vous, on vous dit franchement ce qui tiendra dans le temps, et on prend le temps qu'il faut.",
+    "secondary": "Voir les artistes",
+    "imageAlt": "Demi-manchette réaliste : soldat spartiate devant le Colisée, noir et gris avec du rouge, sur l'épaule"
+  },
+  "rating": { "label": "{value}/5 sur Google", "count": "{count} avis", "asOf": "Note relevée le {date}" },
+  "styles": {
+    "eyebrow": "Styles",
+    "title": "Ce qu'on tatoue",
+    "seeAll": "Voir les pièces",
+    "items": {
+      "realisme": {
+        "name": "Réalisme",
+        "short": "Portraits, mythologie, animaux, en noir et gris ou en couleur.",
+        "title": "Tatouage réaliste à Amiens",
+        "metaTitle": "Tatouage réaliste à Amiens : portraits, mythologie | Fred-Ink",
+        "metaDesc": "Tatouage réaliste à Amiens chez Fred-Ink Tattoo Studio : portraits, animaux, mythologie grecque et romaine, noir et gris ou couleur. Envoyez votre projet.",
+        "intro": "Un tatouage réaliste se joue sur les contrastes et la patience. Portraits, animaux, temples et dieux grecs, soldats romains : chaque pièce est construite pour que le volume tienne encore dans dix ans.",
+        "body": [
+          "Le réalisme demande de la place. Un portrait lisible, c'est rarement moins qu'une main ouverte, et une scène mythologique prend souvent l'avant-bras entier. L'artiste vous dira honnêtement la taille qui convient à votre idée.",
+          "La plupart des pièces se font en plusieurs séances, espacées le temps de la cicatrisation. Le nombre exact dépend de la surface et du niveau de détail : il est fixé au rendez-vous de préparation, avec le devis.",
+          "Apportez de bonnes références : une photo nette et bien éclairée pour un portrait, plusieurs images pour une composition. L'artiste dessine ensuite une version adaptée à votre peau et à la zone."
+        ]
+      },
+      "floral": {
+        "name": "Floral & ornemental",
+        "short": "Manchettes fleuries, mandalas, dentelle et symétrie.",
+        "title": "Tatouage floral et ornemental à Amiens",
+        "metaTitle": "Tatouage floral et ornemental à Amiens, manchettes | Fred-Ink",
+        "metaDesc": "Manchettes florales, pivoines, roses, mandalas et ornements à Amiens. Fred-Ink Tattoo Studio dessine des pièces qui suivent la forme du bras.",
+        "intro": "Pivoines, roses, lys, mandalas et dentelle : des pièces dessinées pour suivre le bras, du poignet à l'épaule, et qui peuvent grandir avec le temps.",
+        "body": [
+          "Un bon floral épouse la forme du corps. Les fleurs s'ouvrent vers l'épaule, les ornements tombent sur le poignet : le dessin est pensé directement sur la zone, pas posé comme un autocollant.",
+          "Beaucoup de manchettes commencent par une seule fleur. Si vous pensez déjà à la suite, dites-le : l'artiste laisse la place pour enchaîner plus tard sans que ça se voie.",
+          "Le noir et gris reste le plus demandé, mais une touche de couleur fonctionne très bien sur les pétales. On en parle au rendez-vous."
+        ]
+      },
+      "fineline": {
+        "name": "Fineline",
+        "short": "Traits fins et pièces délicates, du poignet à la nuque.",
+        "title": "Tatouage fineline à Amiens",
+        "metaTitle": "Tatouage fineline et trait fin à Amiens | Fred-Ink",
+        "metaDesc": "Tatouages fineline à Amiens : papillons, fleurs, soleil et lune, petites pièces délicates. Conseils honnêtes sur la taille pour que le trait vieillisse bien.",
+        "intro": "Papillons, fleurs, soleil et lune, petits animaux : des pièces fines et légères, pour un premier tatouage ou pour compléter une composition.",
+        "body": [
+          "Le trait fin vieillit plus vite qu'un trait épais : l'encre s'étale un peu avec les années. C'est pour ça qu'on peut vous conseiller d'agrandir légèrement un motif très détaillé. Mieux vaut le savoir avant.",
+          "Ces pièces se font souvent en une seule séance. Elles sont idéales pour un premier tatouage, et les zones comme l'avant-bras, l'omoplate ou la nuque leur vont bien.",
+          "Une écriture, une date, un petit symbole ? Envoyez la police ou un exemple, l'artiste vous propose une version lisible."
+        ]
+      },
+      "couleur": {
+        "name": "Couleur & illustratif",
+        "short": "Manga, néo-traditionnel, japonais, pièces très vives.",
+        "title": "Tatouage couleur à Amiens",
+        "metaTitle": "Tatouage couleur, manga et japonais à Amiens | Fred-Ink",
+        "metaDesc": "Tatouages couleur à Amiens : manga, anime, néo-traditionnel, manchettes japonaises. Des couleurs saturées pensées pour durer, chez Fred-Ink Tattoo Studio.",
+        "intro": "Manga et anime, dessins animés, néo-traditionnel, manchettes japonaises : des couleurs franches et des contours nets, pour des pièces qu'on voit de loin.",
+        "body": [
+          "La couleur tient dans le temps quand le dessin est bien construit : un contour solide, des contrastes francs, des teintes saturées. L'artiste adapte votre référence pour qu'elle reste lisible sur la peau.",
+          "Personnage préféré, univers d'un jeu, scène complète : apportez vos images. Le dessin sera retravaillé, jamais simplement décalqué.",
+          "Les grandes pièces en couleur demandent plusieurs séances et un soin régulier, surtout face au soleil. On vous explique tout au rendez-vous."
+        ]
+      },
+      "chicano": {
+        "name": "Chicano",
+        "short": "Visages, lettrage, catrinas, en noir et gris.",
+        "title": "Tatouage chicano à Amiens",
+        "metaTitle": "Tatouage chicano à Amiens, lettrage et portraits | Fred-Ink",
+        "metaDesc": "Tatouage chicano à Amiens : visages, catrinas, roses, lettrage, en noir et gris doux. Envoyez votre idée à Fred-Ink Tattoo Studio.",
+        "intro": "Visages féminins, catrinas, roses et lettrage : le chicano en noir et gris, avec des dégradés doux et des lettres travaillées à la main.",
+        "body": [
+          "Le chicano repose sur l'ombrage : des noirs profonds, des gris très progressifs, et un lettrage qui doit rester lisible des années plus tard.",
+          "Un mot, un prénom, une devise ? Dites-nous ce qu'il signifie pour vous. L'artiste dessine les lettres pour qu'elles fassent corps avec le reste de la pièce.",
+          "Avant-bras, mollet, haut du bras : ces zones permettent une composition assez grande pour garder le détail."
+        ]
+      },
+      "graphique": {
+        "name": "Graphique",
+        "short": "Blackwork, aplats noirs, touches de rouge.",
+        "title": "Tatouage graphique et blackwork à Amiens",
+        "metaTitle": "Tatouage blackwork et graphique à Amiens | Fred-Ink",
+        "metaDesc": "Blackwork, aplats noirs, cœurs sacrés, insectes et touches de rouge : les tatouages graphiques de Fred-Ink Tattoo Studio à Amiens.",
+        "intro": "Aplats noirs, lignes franches, insectes, cœurs sacrés, un rouge vif ici et là : des pièces qui se lisent au premier coup d'œil.",
+        "body": [
+          "Le graphique joue sur le contraste entre la peau et le noir. Un aplat bien posé reste net très longtemps, c'est un des styles qui vieillit le mieux.",
+          "Une couleur unique, souvent du rouge, suffit à faire ressortir tout le dessin. On en discute selon votre peau et la zone.",
+          "Ces pièces sont aussi une bonne piste pour recouvrir un ancien tatouage : le noir couvre beaucoup. Voir la page cover."
+        ]
+      },
+      "cover": {
+        "name": "Cover",
+        "short": "Recouvrir ou retravailler un ancien tatouage.",
+        "title": "Cover de tatouage à Amiens",
+        "metaTitle": "Cover tatouage à Amiens : recouvrir un ancien tatouage | Fred-Ink",
+        "metaDesc": "Recouvrement de tatouage (cover) et retouches à Amiens. Envoyez une photo de votre ancien tatouage : l'artiste vous dit honnêtement ce qui est possible.",
+        "intro": "Un ancien tatouage qui ne vous ressemble plus, un trait qui a bavé, un prénom à faire disparaître : on regarde ensemble ce qu'on peut recouvrir ou retravailler.",
+        "body": [
+          "Tout commence par une photo nette de l'ancien tatouage, en lumière du jour. Avec elle, l'artiste voit tout de suite ce qui est possible et ce qui ne l'est pas.",
+          "Un cover est presque toujours plus grand et plus sombre que le tatouage d'origine : les zones foncées, les fleurs, le réalisme et le graphique s'y prêtent bien. Un motif très clair ou très fin, en revanche, ne cachera rien.",
+          "Si le tatouage est très chargé, quelques séances de détatouage au laser peuvent l'éclaircir avant. L'artiste vous le dira franchement plutôt que de vous promettre un miracle.",
+          "Les photos avant et après de nos covers arrivent bientôt sur cette page."
+        ]
+      }
+    }
+  },
+  "styleNav": { "others": "Les autres styles", "pieces": "Pièces dans ce style", "none": "Les photos de ce style arrivent bientôt. En attendant, le travail du studio est sur Instagram.", "cta": "Proposer un projet {style}" },
+  "artists": {
+    "eyebrow": "L'équipe",
+    "title": "Les artistes",
+    "lead": "Chaque artiste a son trait. Regardez leur travail, puis choisissez, ou laissez-nous vous orienter vers la bonne personne.",
+    "with": "Un projet avec {name}",
+    "instagram": "Son Instagram",
+    "pieces": "Ses pièces",
+    "noPieces": "Son portfolio complet est sur Instagram.",
+    "portraitSoon": "Portrait à venir",
+    "styles": "Styles",
+    "pageTitle": "{name}, tatoueur·se à Amiens",
+    "pageMetaTitle": "{name}, tatouage à Amiens | Fred-Ink Tattoo Studio",
+    "pageMetaDesc": "{name} tatoue chez Fred-Ink Tattoo Studio, 25 rue du Général Leclerc à Amiens. Son travail, ses styles, et un formulaire pour lui proposer votre projet.",
+    "pageLead": "{name} fait partie de l'équipe Fred-Ink, rue du Général Leclerc. Son travail récent est sur Instagram ; envoyez votre idée, et {name} vous recontacte.",
+    "back": "Toute l'équipe",
+    "others": "Les autres artistes"
+  },
+  "projects": {
+    "eyebrow": "Projets",
+    "title": "Des pièces, pas une galerie",
+    "lead": "Chaque pièce avec son style et sa zone. Filtrez par style ou par artiste, ouvrez une photo pour la voir en grand.",
+    "filterStyle": "Style",
+    "filterArtist": "Artiste",
+    "all": "Tous",
+    "count": "{n} pièces",
+    "zone": "Zone",
+    "sessions": "{n} séance(s)",
+    "artist": "Artiste",
+    "color": "Couleur",
+    "bw": "Noir et gris",
+    "open": "Voir en grand : {alt}",
+    "close": "Fermer",
+    "prev": "Pièce précédente",
+    "next": "Pièce suivante",
+    "similar": "Un projet dans ce style",
+    "more": "Voir plus de pièces",
+    "empty": "Aucune pièce pour ce filtre pour l'instant."
+  },
+  "zones": {
+    "avant-bras": "Avant-bras",
+    "bras": "Bras",
+    "epaule": "Épaule et bras",
+    "main": "Avant-bras et main",
+    "dos": "Haut du dos et nuque",
+    "mollet": "Mollet",
+    "poitrine": "Poitrine",
+    "omoplate": "Omoplate",
+    "bras-torse": "Bras et torse"
+  },
+  "reviews": {
+    "eyebrow": "Avis Google",
+    "title": "Ce qui revient dans vos avis",
+    "items": [
+      { "t": "L'équipe", "p": "C'est ce que les clients citent le plus : l'accueil, la bonne humeur du studio, et des artistes qui prennent le temps d'expliquer." },
+      { "t": "Les prix", "p": "Des tarifs jugés justes, annoncés avant de commencer. Vous savez où vous allez avant que l'aiguille ne touche la peau." }
+    ],
+    "link": "Lire les avis sur Google"
+  },
+  "piercing": {
+    "eyebrow": "Piercing",
+    "title": "Deux perceurs, et des bijoux à la pelle",
+    "lead": "Oreilles, nez, lèvre, nombril : nos deux perceurs posent votre bijou avec du matériel stérile et vous expliquent les soins avant que vous repartiez.",
+    "from": "à partir de {price}",
+    "priceOnSite": "Prix au studio",
+    "jewels": "Bijoux",
+    "jewelsText": "Un grand choix de bijoux au studio, pour la première pose comme pour changer plus tard. Les matériaux adaptés à une première pose vous sont indiqués sur place.",
+    "rdv": "Les piercings se font au studio ou sur rendez-vous par téléphone.",
+    "more": "Prestations et soins",
+    "imageAlt": "Piercing daith avec anneau ciselé et petit tatouage ornemental près de l'oreille",
+    "pageTitle": "Piercing à Amiens",
+    "pageMetaTitle": "Piercing à Amiens : oreille, nez, lèvre, nombril | Fred-Ink",
+    "pageMetaDesc": "Piercing à Amiens chez Fred-Ink Tattoo Studio : lobe, hélix, daith, narine, septum, lèvre, nombril. Deux perceurs, matériel stérile, grand choix de bijoux.",
+    "care": "Soins après un piercing",
+    "careItems": [
+      "Lavez-vous les mains avant de toucher le piercing.",
+      "Nettoyez une à deux fois par jour avec le produit conseillé au studio, sans tourner le bijou.",
+      "Évitez piscine, mer et bain pendant les premières semaines.",
+      "Ne changez pas le bijou avant la fin de la cicatrisation : passez au studio, on le fera avec vous."
+    ],
+    "healing": "La cicatrisation va de quelques semaines pour un lobe à plusieurs mois pour un cartilage ou un nombril."
+  },
+  "process": {
+    "eyebrow": "Comment ça marche",
+    "title": "De l'idée à la cicatrisation",
+    "steps": [
+      { "t": "Vous envoyez votre idée", "p": "Le formulaire en ligne : votre idée, la zone, la taille, vos références. Ou passez au studio." },
+      { "t": "L'artiste vous recontacte", "p": "Par téléphone ou par e-mail, pour poser les bonnes questions et vous dire ce qui est faisable." },
+      { "t": "Rendez-vous et devis", "p": "On affine le projet ensemble, on fixe le prix, la durée et la date de la séance." },
+      { "t": "La séance", "p": "Le dessin est validé sur votre peau avant de commencer. Vous pouvez demander une pause quand vous voulez." },
+      { "t": "Les soins", "p": "Vous repartez avec les consignes de soin. Une question pendant la cicatrisation ? Appelez-nous." }
+    ]
+  },
+  "hygiene": {
+    "eyebrow": "Hygiène et sécurité",
+    "title": "Propre, sans discussion",
+    "items": [
+      { "t": "Usage unique", "p": "Aiguilles, cartouches, gants, protections : tout ce qui touche la peau est neuf, ouvert devant vous et jeté après la séance." },
+      { "t": "Poste nettoyé et protégé", "p": "Le poste est désinfecté et recouvert de films neufs entre chaque client." },
+      { "t": "Encres conformes", "p": "Des encres conformes à la réglementation européenne en vigueur pour les tatouages." },
+      { "t": "Formation obligatoire", "p": "En France, tatoueurs et perceurs doivent suivre une formation aux conditions d'hygiène et déclarer leur activité à l'Agence régionale de santé." }
+    ],
+    "note": "Une question sur le matériel ? Demandez à voir, on vous montre."
+  },
+  "advice": {
+    "eyebrow": "Conseils",
+    "title": "Avant, pendant, après",
+    "groups": [
+      {
+        "t": "Avant la séance",
+        "items": [
+          "Dormez bien et mangez avant de venir.",
+          "Pas d'alcool la veille ni le jour même.",
+          "Hydratez la zone les jours précédents, sans coup de soleil.",
+          "Portez des vêtements qui laissent la zone accessible."
+        ]
+      },
+      {
+        "t": "Les soins après",
+        "items": [
+          "Gardez le film le temps indiqué par l'artiste.",
+          "Lavez doucement à l'eau tiède et au savon doux, séchez en tamponnant.",
+          "Appliquez une fine couche de la crème conseillée, deux à trois fois par jour.",
+          "Ne grattez pas, n'arrachez pas les petites croûtes."
+        ]
+      },
+      {
+        "t": "La cicatrisation",
+        "items": [
+          "Comptez deux à quatre semaines pour la surface de la peau.",
+          "Pas de piscine, de mer, de bain ni de sauna pendant cette période.",
+          "Protégez du soleil : écran total ensuite, toute l'année.",
+          "Une retouche est parfois utile : on en parle une fois la peau bien cicatrisée."
+        ]
+      }
+    ]
+  },
+  "studio": {
+    "eyebrow": "Le studio",
+    "title": "Dix-neuf ans rue du Général Leclerc",
+    "text": [
+      "Fred-Ink tatoue et perce Amiens depuis dix-neuf ans. Ce qui a commencé autour de Fred est devenu une équipe de huit tatoueurs et deux perceurs, chacun avec son style.",
+      "Et de temps en temps, on ouvre les portes pour une soirée au studio : offres sur le piercing et les bijoux, tirage au sort, un verre. Les dates sont annoncées sur Instagram."
+    ],
+    "cta": "Venir au studio",
+    "imageAlt": "Devanture du studio Fred-Ink Tattoo, enseigne et vitrine, rue du Général Leclerc à Amiens",
+    "photosSoon": "Photos de l'intérieur à venir"
+  },
+  "insta": { "eyebrow": "Instagram", "title": "Le travail de la semaine", "follow": "Suivre {handle}" },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Nous trouver",
+    "address": "Adresse",
+    "hours": "Horaires",
+    "phone": "Téléphone",
+    "access": "Accès",
+    "accessText": "Rue du Général Leclerc, à Amiens. Venez à pied, en bus ou à vélo ; pour la voiture, stationnement dans les rues voisines.",
+    "directions": "Itinéraire",
+    "rdv": "Rendez-vous sur place, par téléphone ou via le formulaire de projet.",
+    "closed": "Fermé",
+    "closures": "Fermetures exceptionnelles"
+  },
+  "status": { "open": "Ouvert", "closed": "Fermé", "until": "jusqu'à {time}", "reopens": "réouverture {day} à {time}", "today": "aujourd'hui", "tomorrow": "demain" },
+  "days": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"],
+  "daysShort": ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Avant de vous lancer",
+    "items": [
+      { "q": "Combien coûte un tatouage ?", "a": "Le prix dépend de la taille, de la zone, du niveau de détail et du nombre de séances. Il vous est donné avant de commencer, au rendez-vous de préparation. Envoyez votre projet avec un budget indicatif : l'artiste vous dit ce qui est possible." },
+      { "q": "Faut-il verser un acompte ?", "a": "Un acompte peut être demandé pour bloquer la date de la séance ; il est ensuite déduit du prix. Son montant vous est indiqué avec le devis." },
+      { "q": "Je suis mineur, est-ce possible ?", "a": "En France, un tatouage ou un piercing sur un mineur demande l'autorisation écrite d'un parent ou du tuteur légal. Le parent vient avec vous, avec sa pièce d'identité. L'artiste peut refuser certains projets ou certaines zones avant 18 ans." },
+      { "q": "Faites-vous des covers et des retouches ?", "a": "Oui. Pour un cover, envoyez une photo nette de l'ancien tatouage : l'artiste vous dit franchement ce qu'on peut recouvrir. Pour une retouche d'une pièce faite au studio, appelez-nous." },
+      { "q": "Est-ce que ça fait mal ?", "a": "Un peu, et ça dépend de la zone : les côtes, les pieds ou l'intérieur du bras sont plus sensibles que l'épaule ou l'avant-bras. On fait des pauses quand vous en avez besoin." },
+      { "q": "Combien de temps dure une séance ?", "a": "De moins d'une heure pour une petite pièce à plusieurs heures pour une grande. Les manchettes se font en plusieurs séances, espacées de quelques semaines." },
+      { "q": "Peut-on venir sans rendez-vous ?", "a": "Passez au studio pour parler de votre projet ou d'un piercing ; pour un tatouage, la séance se fait sur rendez-vous. Le plus simple : le formulaire en ligne, ou un appel." }
+    ]
+  },
+  "form": {
+    "eyebrow": "Demande de projet",
+    "title": "Proposer mon projet",
+    "metaTitle": "Proposer mon projet de tatouage | Fred-Ink Tattoo Studio Amiens",
+    "metaDesc": "Envoyez votre idée de tatouage à Fred-Ink Tattoo Studio, Amiens : style, zone, taille, références, budget. L'artiste vous recontacte.",
+    "lead": "Plus vous êtes précis, plus la réponse sera juste. Comptez cinq minutes. L'artiste vous recontacte pour en parler, rien n'est engagé à ce stade.",
+    "callInstead": "Vous préférez en parler ?",
+    "s1": "Le projet",
+    "s2": "Les détails",
+    "s3": "Vous",
+    "artist": "Artiste souhaité",
+    "anyArtist": "Peu importe, orientez-moi",
+    "style": "Style",
+    "styleUnsure": "Je ne sais pas encore",
+    "idea": "Votre idée",
+    "ideaHint": "Ce que vous voulez représenter, ce que ça signifie pour vous, les éléments à garder absolument.",
+    "zone": "Zone du corps",
+    "zonePlaceholder": "Avant-bras intérieur, omoplate gauche…",
+    "size": "Taille approximative",
+    "sizes": { "s": "Petit (moins de 8 cm)", "m": "Moyen (8 à 15 cm)", "l": "Grand (15 à 25 cm)", "xl": "Très grand, manchette, dos" },
+    "colour": "Couleur",
+    "colours": { "bw": "Noir et gris", "color": "Couleur", "unsure": "À voir avec l'artiste" },
+    "first": "Premier tatouage ?",
+    "yes": "Oui",
+    "no": "Non",
+    "kind": "Type de projet",
+    "kinds": { "new": "Nouvelle pièce", "cover": "Cover d'un ancien tatouage", "rework": "Retouche, agrandissement" },
+    "photos": "Photos de référence",
+    "photosHint": "Jusqu'à 3 images (références, zone du corps, ancien tatouage pour un cover).",
+    "addPhoto": "Ajouter une photo",
+    "remove": "Retirer",
+    "budget": "Budget indicatif",
+    "budgets": { "a": "Moins de 150 €", "b": "150 à 300 €", "c": "300 à 600 €", "d": "600 à 1 000 €", "e": "Plus de 1 000 €", "u": "Je ne sais pas" },
+    "availability": "Vos disponibilités",
+    "availabilityHint": "Jours et moments qui vous arrangent, délai souhaité.",
+    "name": "Nom et prénom",
+    "age": "Âge",
+    "minor": "Avant 18 ans, un tatouage ou un piercing demande l'autorisation écrite d'un parent ou du tuteur légal, présent le jour de la séance avec sa pièce d'identité. Certains projets peuvent être refusés aux mineurs. Vous pouvez tout de même envoyer votre demande.",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "consent": "J'accepte que le studio utilise ces informations pour me recontacter au sujet de mon projet.",
+    "required": "obligatoire",
+    "next": "Continuer",
+    "back": "Retour",
+    "send": "Envoyer mon projet",
+    "sending": "Envoi…",
+    "errors": { "idea": "Décrivez votre idée en quelques mots.", "zone": "Indiquez la zone.", "size": "Choisissez une taille.", "name": "Indiquez votre nom.", "age": "Indiquez votre âge.", "contact": "Un téléphone ou un e-mail valide, pour qu'on puisse vous répondre.", "consent": "Cochez la case pour qu'on puisse vous recontacter.", "photo": "Cette image n'a pas pu être lue.", "send": "L'envoi n'a pas abouti. Réessayez, ou appelez le studio." },
+    "done": {
+      "title": "Merci, c'est envoyé",
+      "text": "Votre projet est arrivé au studio. {artist} vous recontacte pour en parler.",
+      "artistAny": "L'artiste le plus adapté",
+      "mail": "Un récapitulatif vient de partir à {email}.",
+      "pending": "Dernière étape : appelez-nous pour qu'on retrouve votre demande, le formulaire en ligne n'est pas encore relié à la boîte du studio.",
+      "seeWork": "En attendant, regardez le travail de {handle} sur Instagram.",
+      "again": "Envoyer un autre projet"
+    },
+    "deposit": "Acompte en ligne : bientôt disponible.",
+    "email_": {
+      "subject": "Nouveau projet",
+      "confirmSubject": "Votre projet chez Fred-Ink Tattoo Studio",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre projet. Le voici tel que nous l'avons reçu ; l'artiste vous recontacte pour en parler.",
+      "confirmOutro": "À bientôt au studio,\nFred-Ink Tattoo Studio\n25 rue du Général Leclerc, 80000 Amiens\n03 60 24 54 62",
+      "labels": { "artist": "Artiste", "style": "Style", "idea": "Idée", "zone": "Zone", "size": "Taille", "colour": "Couleur", "first": "Premier tatouage", "kind": "Type", "budget": "Budget", "availability": "Disponibilités", "name": "Nom", "age": "Âge", "minor": "MINEUR : autorisation parentale écrite à prévoir", "phone": "Téléphone", "email": "E-mail", "photos": "Photos jointes", "lang": "Langue du client" }
+    }
+  },
+  "footer": {
+    "tagline": "Tatouage et piercing à Amiens depuis dix-neuf ans.",
+    "contact": "Le studio",
+    "hours": "Horaires",
+    "artists": "Les artistes",
+    "styles": "Styles",
+    "rights": "Fred-Ink Tattoo Studio",
+    "legal": "Mentions légales",
+    "days": "Mardi au vendredi",
+    "saturday": "Samedi",
+    "closed": "Fermé dimanche et lundi"
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "metaDesc": "Mentions légales et données personnelles du site de Fred-Ink Tattoo Studio, Amiens.",
+    "editor": "Éditeur",
+    "editorText": "Fred-Ink Tattoo Studio, 25 rue du Général Leclerc, 80000 Amiens. Téléphone : 03 60 24 54 62.",
+    "pending": "Raison sociale, SIRET et directeur de la publication : à compléter.",
+    "host": "Hébergement",
+    "data": "Données personnelles",
+    "dataText": "Les informations et photos envoyées par le formulaire de projet servent uniquement à vous recontacter au sujet de votre tatouage ou piercing. Elles ne sont ni revendues ni utilisées à d'autres fins, et sont supprimées sur simple demande au studio. Le site ne dépose aucun cookie publicitaire.",
+    "photos": "Photos",
+    "photosText": "Toutes les photos sont celles du studio et de ses artistes. Elles ne peuvent pas être reprises sans autorisation."
+  }
+}

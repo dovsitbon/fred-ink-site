@@ -1,0 +1,19 @@
+{
+  "name": "Fred-Ink Tattoo Studio",
+  "url": "https://fred-ink-tattoo.vercel.app",
+  "phone": "03 60 24 54 62",
+  "phoneIntl": "+33 3 60 24 54 62",
+  "tel": "+33360245462",
+  "whatsapp": null,
+  "email": null,
+  "instagram": "https://www.instagram.com/fredinktattoostudio/",
+  "instagramHandle": "@fredinktattoostudio",
+  "facebook": "https://www.facebook.com/FredInkTattooStudio/",
+  "tiktok": "https://www.tiktok.com/@fredinktattoostudio",
+  "address": { "street": "25 rue du Général Leclerc", "postalCode": "80000", "city": "Amiens", "region": "Hauts-de-France", "country": "FR" },
+  "maps": "https://www.google.com/maps/search/?api=1&query=Fred-Ink+Tattoo+Studio+25+rue+du+G%C3%A9n%C3%A9ral+Leclerc+80000+Amiens",
+  "rating": { "value": 4.7, "count": 348, "asOf": "2026-11-05", "source": "Google" },
+  "team": { "tattooers": 8, "piercers": 2, "since": 2007, "_note": "« Depuis 19 ans », « 8 tatoueurs, 2 perceurs » : bio Instagram/Facebook (nov. 2026), à confirmer." },
+  "payment": { "deposit": false, "provider": "stripe", "_note": "Acompte en ligne prévu mais désactivé : passer deposit à true et poser STRIPE_SECRET_KEY quand le studio le décide." },
+  "legal": { "company": null, "siret": null, "director": null, "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis" }
+}

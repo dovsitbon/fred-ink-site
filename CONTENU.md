@@ -1,0 +1,1233 @@
+# Fred-Ink Tattoo Studio : contenu du site à valider
+
+Généré par `npm run contenu` le 2026-11-05. Tout ce qui est marqué **À CONFIRMER** vient de sources publiques (Instagram, Facebook, Google) ou de la réglementation générale, pas du studio lui-même.
+
+## Infos pratiques
+
+- Adresse : 25 rue du Général Leclerc, 80000 Amiens
+- Téléphone : 03 60 24 54 62 (fixe : pas de WhatsApp tant qu'aucun portable n'est donné)
+- E-mail : **À DEMANDER**
+- Instagram : https://www.instagram.com/fredinktattoostudio/
+- Note Google : 4.7/5, 348 avis (relevé le 2026-11-05)
+- Équipe : 8 tatoueurs, 2 perceurs, depuis 2007 (**À CONFIRMER**)
+- Horaires : dimanche fermé · lundi fermé · mardi 10:00–18:30 · mercredi 10:00–18:30 · jeudi 10:00–18:30 · vendredi 10:00–18:30 · samedi 09:30–18:00 (Mappy indique 10 h 30 en semaine : **À CONFIRMER**)
+
+## Artistes (prénoms, styles, portraits À CONFIRMER)
+
+- @fredinktattoo → affiché « Fred », Fondateur du studio · styles : **à renseigner** · photo : **à prendre**
+- @silent_screamink → affiché « @silent_screamink » · styles : **à renseigner** · photo : **à prendre**
+- @mappink_ → affiché « @mappink_ » · styles : **à renseigner** · photo : **à prendre**
+- @inkyabe → affiché « @inkyabe » · styles : **à renseigner** · photo : **à prendre**
+- @p2b.ink → affiché « @p2b.ink » · styles : **à renseigner** · photo : **à prendre**
+- @emy_fredinktattoo → affiché « Emy » · styles : **à renseigner** · photo : **à prendre**
+
+## Styles et pages SEO
+
+- Réalisme : /fr/tatouage-realiste-amiens · /en/realism-tattoo-amiens
+- Floral & ornemental : /fr/tatouage-floral-ornemental-amiens · /en/floral-ornamental-tattoo-amiens
+- Fineline : /fr/tatouage-fineline-amiens · /en/fine-line-tattoo-amiens
+- Couleur & illustratif : /fr/tatouage-couleur-amiens · /en/colour-tattoo-amiens
+- Chicano : /fr/tatouage-chicano-amiens · /en/chicano-tattoo-amiens
+- Graphique : /fr/tatouage-graphique-blackwork-amiens · /en/blackwork-graphic-tattoo-amiens
+- Cover : /fr/cover-tatouage-amiens · /en/tattoo-cover-up-amiens (pas encore de photo : avant/après à fournir)
+
+## Pièces du portfolio (artiste et nombre de séances À CONFIRMER)
+
+| # | Fichier | Style | Zone | Artiste | Séances | Légende FR |
+|---|---|---|---|---|---|---|
+| 1 | scolopendre-lys-rouges | graphique | Avant-bras | ? | ? | Scolopendre noire et lys araignées rouges |
+| 2 | temple-zeus-belier-avant-bras | realisme | Avant-bras | ? | ? | Temple grec frappé par la foudre de Zeus et tête de bélier, en noir et gris |
+| 3 | pivoine-ornement-avant-bras | floral | Avant-bras | ? | ? | Pivoine et dentelle ornementale |
+| 4 | manchettes-japonaises | couleur | Bras et torse | ? | ? | Deux manchettes japonaises en couleur, dragon et carpes |
+| 5 | papillons-dos-nuque | fineline, floral | Haut du dos et nuque | ? | ? | Papillons et fleurs du haut du dos à la nuque |
+| 6 | chicano-hope-avant-bras | chicano, realisme | Avant-bras | ? | ? | Visage féminin et lettrage Hope, style chicano |
+| 7 | oni-epaule-bras | realisme | Épaule et bras | ? | ? | Masque oni et arbre en noir et gris, de l’épaule au bras |
+| 8 | lapin-lavande-avant-bras | couleur | Avant-bras | ? | ? | Lapin et lavande, néo-traditionnel |
+| 9 | portrait-realiste-avant-bras | realisme | Avant-bras | ? | ? | Portrait réaliste en noir et gris |
+| 10 | rose-mandala-avant-bras | floral | Avant-bras | ? | ? | Rose, mandala et pivoine jusqu’au poignet |
+| 11 | oiseau-botanique-avant-bras | fineline, floral | Avant-bras | ? | ? | Oiseau et fleurs des champs en trait fin |
+| 12 | catrina-mollet | chicano, realisme | Mollet | ? | ? | Catrina et rose, noir et gris |
+| 13 | papillon-de-nuit-poitrine | graphique | Poitrine | ? | ? | Papillon de nuit et étoile, blackwork |
+| 14 | manga-super-guerrier-avant-bras | couleur | Avant-bras | ? | ? | Guerrier de manga en couleur vive |
+| 15 | hibou-tournesol-bras | realisme, floral | Bras | ? | ? | Hibou au regard ambré, tournesol, papillon et fleurs |
+| 16 | floral-ornemental-avant-bras | floral | Avant-bras | ? | ? | Fleurs et motifs ornementaux en symétrie |
+| 17 | soleil-lune-avant-bras | fineline, graphique | Avant-bras | ? | ? | Soleil et lune, rayons au trait |
+| 18 | coeur-sacre-flamme | graphique | Avant-bras | ? | ? | Cœur sacré, flamme, dague et barbelés |
+| 19 | anime-neon-avant-bras | couleur | Avant-bras | ? | ? | Héroïne d’anime et ville néon |
+| 20 | montre-gousset-baroque | realisme, floral | Avant-bras | ? | ? | Montre à gousset et ornements baroques |
+| 21 | ornemental-main-poignet | floral | Avant-bras et main | ? | ? | Ornemental de l’avant-bras à la main |
+| 22 | paresseux-pura-vida | fineline | Avant-bras | ? | ? | Paresseux sur sa branche, lettrage Pura Vida |
+| 23 | ornemental-blackwork-bras | graphique, floral | Bras | ? | ? | Ornemental en aplats noirs |
+| 24 | fiole-soleil-avant-bras | couleur | Avant-bras | ? | ? | Fiole, soleil et cœur de rubis, fleurs |
+| 25 | lion-lettrage-avant-bras | realisme | Avant-bras | ? | ? | Lion réaliste coupé par une flèche, avec lettrage |
+| 26 | roses-mandala-bras | floral | Bras | ? | ? | Roses et mandala en ombrage doux |
+| 27 | bebe-hercule-avant-bras | fineline | Avant-bras | ? | ? | Hercule enfant, trait fin |
+| 28 | oeil-bouche-avant-bras | graphique, couleur | Avant-bras | ? | ? | Œil rouge, bouche et lys, inspiration manga |
+| 29 | dragon-vert-bras | couleur | Bras | ? | ? | Dragon vert et orbe de lumière |
+| 30 | motard-ville-avant-bras | realisme | Avant-bras | ? | ? | Motard et skyline en noir et gris |
+| 31 | ornemental-epaule-bras | floral | Épaule et bras | ? | ? | Manchette ornementale et florale, de l’épaule au coude |
+| 32 | renard-manchette-couleur | couleur | Bras | ? | ? | Manchette couleur avec renard |
+| 33 | gorille-guerrier-avant-bras | realisme | Avant-bras | ? | ? | Guerrier en armure, réalisme sombre |
+| 34 | lys-avant-bras | floral, fineline | Avant-bras | ? | ? | Lys en trait fin |
+| 35 | manchette-dessin-anime | couleur | Bras | ? | ? | Manchette de personnages de dessin animé |
+| 36 | grue-bambou-avant-bras | realisme | Avant-bras | ? | ? | Grue du Japon, bambous et fleurs, touche de rouge |
+| 37 | rose-ornement-main | floral | Avant-bras et main | ? | ? | Rose et volutes jusqu’à la main |
+| 38 | coeur-anatomique-main | couleur, realisme | Avant-bras | ? | ? | Cœur anatomique tenu par une main |
+| 39 | hirondelle-omoplate | couleur | Omoplate | ? | ? | Hirondelle en vol, couleur |
+
+## Piercing (prix « à partir de » À REMPLIR)
+
+- Lobe : ?
+- Hélix, conch, tragus : ?
+- Daith, rook : ?
+- Narine, septum : ?
+- Lèvre, labret, medusa : ?
+- Langue : ?
+- Nombril : ?
+- Arcade, surface : ?
+
+## Bandeau d'annonces (data/annonces.json)
+
+- Agenda : ouvert · « Agenda ouvert : envoyez votre projet, l'artiste vous rappelle pour en parler. »
+- soiree du 2026-10-10 au 2026-10-24 : « Soirée au studio samedi 24 octobre, de 10 h à 22 h 30 : offres piercing et bijoux, tirage au sort, apéritif. »
+- guest du 2000-01-01 au 2000-01-01 : « Artiste invité au studio : nom et dates à venir. »
+
+## Tous les textes (FR / EN)
+
+- **meta.title**
+  - FR : Salon de tatouage et piercing à Amiens | Fred-Ink Tattoo Studio
+  - EN : Tattoo and Piercing Studio in Amiens | Fred-Ink Tattoo Studio
+- **meta.description**
+  - FR : Fred-Ink Tattoo Studio, 25 rue du Général Leclerc à Amiens : tatouage réaliste, floral, fineline, couleur, chicano, cover et piercing. Huit tatoueurs, deux perceurs. Envoyez votre projet en ligne.
+  - EN : Fred-Ink Tattoo Studio, 25 rue du Général Leclerc, Amiens: realism, floral, fine line, colour, chicano, cover-ups and piercing. Eight tattooers, two piercers. Send us your idea online.
+- **meta.ogAlt**
+  - FR : Logo Fred-Ink Tattoo Studio et manchette spartiate réaliste en noir, gris et rouge
+  - EN : Fred-Ink Tattoo Studio logo and a realistic Spartan half sleeve in black, grey and red
+- **nav.skip**
+  - FR : Aller au contenu
+  - EN : Skip to content
+- **nav.home**
+  - FR : Fred-Ink Tattoo Studio, accueil
+  - EN : Fred-Ink Tattoo Studio, home
+- **nav.menu**
+  - FR : Menu
+  - EN : Menu
+- **nav.close**
+  - FR : Fermer le menu
+  - EN : Close menu
+- **nav.artists**
+  - FR : Artistes
+  - EN : Artists
+- **nav.projects**
+  - FR : Projets
+  - EN : Work
+- **nav.piercing**
+  - FR : Piercing
+  - EN : Piercing
+- **nav.advice**
+  - FR : Conseils
+  - EN : Aftercare
+- **nav.infos**
+  - FR : Infos
+  - EN : Visit
+- **nav.lang**
+  - FR : Langue
+  - EN : Language
+- **nav.instagram**
+  - FR : Instagram du studio
+  - EN : Studio Instagram
+- **nav.call**
+  - FR : Appeler
+  - EN : Call
+- **nav.cta**
+  - FR : Proposer mon projet
+  - EN : Send my idea
+- **intro.skip**
+  - FR : Passer
+  - EN : Skip
+- **announce.close**
+  - FR : Fermer le bandeau
+  - EN : Close banner
+- **announce.agendaFull**
+  - FR : Agenda complet pour le moment : vous pouvez tout de même envoyer votre projet, on vous recontacte dès qu'une date se libère.
+  - EN : Books are full for now. You can still send your idea and we'll get back to you as soon as a date opens up.
+- **hero.eyebrow**
+  - FR : Tatouage & piercing · Amiens · depuis 19 ans
+  - EN : Tattoo & piercing · Amiens · for 19 years
+- **hero.title**
+  - FR : Votre idée, notre trait
+  - EN : Your idea, our line
+- **hero.lead**
+  - FR : Huit tatoueurs et deux perceurs, rue du Général Leclerc. Racontez-nous ce que vous avez en tête : on dessine avec vous, on vous dit franchement ce qui tiendra dans le temps, et on prend le temps qu'il faut.
+  - EN : Eight tattooers and two piercers on rue du Général Leclerc. Tell us what you have in mind: we draw it with you, tell you honestly what will hold up over time, and take the time it needs.
+- **hero.secondary**
+  - FR : Voir les artistes
+  - EN : Meet the artists
+- **hero.imageAlt**
+  - FR : Demi-manchette réaliste : soldat spartiate devant le Colisée, noir et gris avec du rouge, sur l'épaule
+  - EN : Realistic half sleeve on the shoulder: a Spartan soldier before the Colosseum, black and grey with red
+- **rating.label**
+  - FR : {value}/5 sur Google
+  - EN : {value}/5 on Google
+- **rating.count**
+  - FR : {count} avis
+  - EN : {count} reviews
+- **rating.asOf**
+  - FR : Note relevée le {date}
+  - EN : Rating checked on {date}
+- **styles.eyebrow**
+  - FR : Styles
+  - EN : Styles
+- **styles.title**
+  - FR : Ce qu'on tatoue
+  - EN : What we tattoo
+- **styles.seeAll**
+  - FR : Voir les pièces
+  - EN : See the work
+- **styles.items.realisme.name**
+  - FR : Réalisme
+  - EN : Realism
+- **styles.items.realisme.short**
+  - FR : Portraits, mythologie, animaux, en noir et gris ou en couleur.
+  - EN : Portraits, mythology, animals, black and grey or colour.
+- **styles.items.realisme.title**
+  - FR : Tatouage réaliste à Amiens
+  - EN : Realism tattoos in Amiens
+- **styles.items.realisme.metaTitle**
+  - FR : Tatouage réaliste à Amiens : portraits, mythologie | Fred-Ink
+  - EN : Realism tattoo in Amiens: portraits, mythology | Fred-Ink
+- **styles.items.realisme.metaDesc**
+  - FR : Tatouage réaliste à Amiens chez Fred-Ink Tattoo Studio : portraits, animaux, mythologie grecque et romaine, noir et gris ou couleur. Envoyez votre projet.
+  - EN : Realism tattoos in Amiens at Fred-Ink Tattoo Studio: portraits, animals, Greek and Roman mythology, black and grey or colour. Send us your idea.
+- **styles.items.realisme.intro**
+  - FR : Un tatouage réaliste se joue sur les contrastes et la patience. Portraits, animaux, temples et dieux grecs, soldats romains : chaque pièce est construite pour que le volume tienne encore dans dix ans.
+  - EN : Realism lives on contrast and patience. Portraits, animals, Greek temples and gods, Roman soldiers: every piece is built so the depth still reads ten years on.
+- **styles.items.realisme.body[1]**
+  - FR : Le réalisme demande de la place. Un portrait lisible, c'est rarement moins qu'une main ouverte, et une scène mythologique prend souvent l'avant-bras entier. L'artiste vous dira honnêtement la taille qui convient à votre idée.
+  - EN : Realism needs room. A readable portrait is rarely smaller than an open hand, and a mythological scene often takes the whole forearm. The artist will tell you honestly what size suits your idea.
+- **styles.items.realisme.body[2]**
+  - FR : La plupart des pièces se font en plusieurs séances, espacées le temps de la cicatrisation. Le nombre exact dépend de la surface et du niveau de détail : il est fixé au rendez-vous de préparation, avec le devis.
+  - EN : Most pieces take several sessions, spaced out to let the skin heal. The exact number depends on the area and the detail, and is set at the consultation along with the quote.
+- **styles.items.realisme.body[3]**
+  - FR : Apportez de bonnes références : une photo nette et bien éclairée pour un portrait, plusieurs images pour une composition. L'artiste dessine ensuite une version adaptée à votre peau et à la zone.
+  - EN : Bring good references: a sharp, well-lit photo for a portrait, several images for a composition. The artist then draws a version made for your skin and the placement.
+- **styles.items.floral.name**
+  - FR : Floral & ornemental
+  - EN : Floral & ornamental
+- **styles.items.floral.short**
+  - FR : Manchettes fleuries, mandalas, dentelle et symétrie.
+  - EN : Floral sleeves, mandalas, lace and symmetry.
+- **styles.items.floral.title**
+  - FR : Tatouage floral et ornemental à Amiens
+  - EN : Floral and ornamental tattoos in Amiens
+- **styles.items.floral.metaTitle**
+  - FR : Tatouage floral et ornemental à Amiens, manchettes | Fred-Ink
+  - EN : Floral and ornamental tattoo in Amiens, sleeves | Fred-Ink
+- **styles.items.floral.metaDesc**
+  - FR : Manchettes florales, pivoines, roses, mandalas et ornements à Amiens. Fred-Ink Tattoo Studio dessine des pièces qui suivent la forme du bras.
+  - EN : Floral sleeves, peonies, roses, mandalas and ornaments in Amiens. Fred-Ink Tattoo Studio draws pieces that follow the shape of the arm.
+- **styles.items.floral.intro**
+  - FR : Pivoines, roses, lys, mandalas et dentelle : des pièces dessinées pour suivre le bras, du poignet à l'épaule, et qui peuvent grandir avec le temps.
+  - EN : Peonies, roses, lilies, mandalas and lace: pieces drawn to follow the arm from wrist to shoulder, with room to grow later.
+- **styles.items.floral.body[1]**
+  - FR : Un bon floral épouse la forme du corps. Les fleurs s'ouvrent vers l'épaule, les ornements tombent sur le poignet : le dessin est pensé directement sur la zone, pas posé comme un autocollant.
+  - EN : Good floral work follows the body. Flowers open towards the shoulder, ornaments fall onto the wrist: the design is drawn for the placement, not stuck on like a sticker.
+- **styles.items.floral.body[2]**
+  - FR : Beaucoup de manchettes commencent par une seule fleur. Si vous pensez déjà à la suite, dites-le : l'artiste laisse la place pour enchaîner plus tard sans que ça se voie.
+  - EN : Many sleeves start with a single flower. If you already have the rest in mind, say so: the artist leaves space so the next piece joins on seamlessly.
+- **styles.items.floral.body[3]**
+  - FR : Le noir et gris reste le plus demandé, mais une touche de couleur fonctionne très bien sur les pétales. On en parle au rendez-vous.
+  - EN : Black and grey is the most requested, but a touch of colour on the petals works beautifully. We'll talk it through at the consultation.
+- **styles.items.fineline.name**
+  - FR : Fineline
+  - EN : Fine line
+- **styles.items.fineline.short**
+  - FR : Traits fins et pièces délicates, du poignet à la nuque.
+  - EN : Delicate linework, from wrist to neck.
+- **styles.items.fineline.title**
+  - FR : Tatouage fineline à Amiens
+  - EN : Fine line tattoos in Amiens
+- **styles.items.fineline.metaTitle**
+  - FR : Tatouage fineline et trait fin à Amiens | Fred-Ink
+  - EN : Fine line tattoo in Amiens | Fred-Ink
+- **styles.items.fineline.metaDesc**
+  - FR : Tatouages fineline à Amiens : papillons, fleurs, soleil et lune, petites pièces délicates. Conseils honnêtes sur la taille pour que le trait vieillisse bien.
+  - EN : Fine line tattoos in Amiens: butterflies, flowers, sun and moon, small delicate pieces. Honest advice on size so the line ages well.
+- **styles.items.fineline.intro**
+  - FR : Papillons, fleurs, soleil et lune, petits animaux : des pièces fines et légères, pour un premier tatouage ou pour compléter une composition.
+  - EN : Butterflies, flowers, sun and moon, small animals: light, delicate pieces for a first tattoo or to complete a composition.
+- **styles.items.fineline.body[1]**
+  - FR : Le trait fin vieillit plus vite qu'un trait épais : l'encre s'étale un peu avec les années. C'est pour ça qu'on peut vous conseiller d'agrandir légèrement un motif très détaillé. Mieux vaut le savoir avant.
+  - EN : Fine lines age faster than bold ones: ink spreads a little over the years. That's why we may suggest going slightly bigger on a very detailed design. Better to know before.
+- **styles.items.fineline.body[2]**
+  - FR : Ces pièces se font souvent en une seule séance. Elles sont idéales pour un premier tatouage, et les zones comme l'avant-bras, l'omoplate ou la nuque leur vont bien.
+  - EN : These pieces are often done in one session. They make great first tattoos, and suit the forearm, shoulder blade or back of the neck.
+- **styles.items.fineline.body[3]**
+  - FR : Une écriture, une date, un petit symbole ? Envoyez la police ou un exemple, l'artiste vous propose une version lisible.
+  - EN : Lettering, a date, a small symbol? Send the font or an example and the artist will suggest a readable version.
+- **styles.items.couleur.name**
+  - FR : Couleur & illustratif
+  - EN : Colour & illustrative
+- **styles.items.couleur.short**
+  - FR : Manga, néo-traditionnel, japonais, pièces très vives.
+  - EN : Manga, neo-traditional, Japanese, vivid pieces.
+- **styles.items.couleur.title**
+  - FR : Tatouage couleur à Amiens
+  - EN : Colour tattoos in Amiens
+- **styles.items.couleur.metaTitle**
+  - FR : Tatouage couleur, manga et japonais à Amiens | Fred-Ink
+  - EN : Colour, manga and Japanese tattoo in Amiens | Fred-Ink
+- **styles.items.couleur.metaDesc**
+  - FR : Tatouages couleur à Amiens : manga, anime, néo-traditionnel, manchettes japonaises. Des couleurs saturées pensées pour durer, chez Fred-Ink Tattoo Studio.
+  - EN : Colour tattoos in Amiens: manga, anime, neo-traditional, Japanese sleeves. Saturated colour built to last, at Fred-Ink Tattoo Studio.
+- **styles.items.couleur.intro**
+  - FR : Manga et anime, dessins animés, néo-traditionnel, manchettes japonaises : des couleurs franches et des contours nets, pour des pièces qu'on voit de loin.
+  - EN : Manga and anime, cartoons, neo-traditional, Japanese sleeves: bold colour and clean outlines for pieces you can read from across the room.
+- **styles.items.couleur.body[1]**
+  - FR : La couleur tient dans le temps quand le dessin est bien construit : un contour solide, des contrastes francs, des teintes saturées. L'artiste adapte votre référence pour qu'elle reste lisible sur la peau.
+  - EN : Colour lasts when the design is well built: a solid outline, strong contrast, saturated tones. The artist adapts your reference so it stays readable on skin.
+- **styles.items.couleur.body[2]**
+  - FR : Personnage préféré, univers d'un jeu, scène complète : apportez vos images. Le dessin sera retravaillé, jamais simplement décalqué.
+  - EN : Favourite character, a game's universe, a full scene: bring your images. The design is reworked, never just traced.
+- **styles.items.couleur.body[3]**
+  - FR : Les grandes pièces en couleur demandent plusieurs séances et un soin régulier, surtout face au soleil. On vous explique tout au rendez-vous.
+  - EN : Large colour pieces take several sessions and regular care, especially in the sun. We'll explain everything at the consultation.
+- **styles.items.chicano.name**
+  - FR : Chicano
+  - EN : Chicano
+- **styles.items.chicano.short**
+  - FR : Visages, lettrage, catrinas, en noir et gris.
+  - EN : Faces, lettering, catrinas, in black and grey.
+- **styles.items.chicano.title**
+  - FR : Tatouage chicano à Amiens
+  - EN : Chicano tattoos in Amiens
+- **styles.items.chicano.metaTitle**
+  - FR : Tatouage chicano à Amiens, lettrage et portraits | Fred-Ink
+  - EN : Chicano tattoo in Amiens, lettering and portraits | Fred-Ink
+- **styles.items.chicano.metaDesc**
+  - FR : Tatouage chicano à Amiens : visages, catrinas, roses, lettrage, en noir et gris doux. Envoyez votre idée à Fred-Ink Tattoo Studio.
+  - EN : Chicano tattoos in Amiens: faces, catrinas, roses, lettering in soft black and grey. Send your idea to Fred-Ink Tattoo Studio.
+- **styles.items.chicano.intro**
+  - FR : Visages féminins, catrinas, roses et lettrage : le chicano en noir et gris, avec des dégradés doux et des lettres travaillées à la main.
+  - EN : Women's faces, catrinas, roses and lettering: chicano in black and grey, with soft gradients and hand-drawn letters.
+- **styles.items.chicano.body[1]**
+  - FR : Le chicano repose sur l'ombrage : des noirs profonds, des gris très progressifs, et un lettrage qui doit rester lisible des années plus tard.
+  - EN : Chicano is all about shading: deep blacks, very gradual greys, and lettering that has to stay readable for years.
+- **styles.items.chicano.body[2]**
+  - FR : Un mot, un prénom, une devise ? Dites-nous ce qu'il signifie pour vous. L'artiste dessine les lettres pour qu'elles fassent corps avec le reste de la pièce.
+  - EN : A word, a name, a motto? Tell us what it means to you. The artist draws the letters so they belong to the rest of the piece.
+- **styles.items.chicano.body[3]**
+  - FR : Avant-bras, mollet, haut du bras : ces zones permettent une composition assez grande pour garder le détail.
+  - EN : Forearm, calf, upper arm: these areas leave enough room to keep the detail.
+- **styles.items.graphique.name**
+  - FR : Graphique
+  - EN : Graphic
+- **styles.items.graphique.short**
+  - FR : Blackwork, aplats noirs, touches de rouge.
+  - EN : Blackwork, solid black, touches of red.
+- **styles.items.graphique.title**
+  - FR : Tatouage graphique et blackwork à Amiens
+  - EN : Graphic and blackwork tattoos in Amiens
+- **styles.items.graphique.metaTitle**
+  - FR : Tatouage blackwork et graphique à Amiens | Fred-Ink
+  - EN : Blackwork and graphic tattoo in Amiens | Fred-Ink
+- **styles.items.graphique.metaDesc**
+  - FR : Blackwork, aplats noirs, cœurs sacrés, insectes et touches de rouge : les tatouages graphiques de Fred-Ink Tattoo Studio à Amiens.
+  - EN : Blackwork, solid black, sacred hearts, insects and touches of red: graphic tattoos by Fred-Ink Tattoo Studio in Amiens.
+- **styles.items.graphique.intro**
+  - FR : Aplats noirs, lignes franches, insectes, cœurs sacrés, un rouge vif ici et là : des pièces qui se lisent au premier coup d'œil.
+  - EN : Solid black, clean lines, insects, sacred hearts, a bright red here and there: pieces you read at first glance.
+- **styles.items.graphique.body[1]**
+  - FR : Le graphique joue sur le contraste entre la peau et le noir. Un aplat bien posé reste net très longtemps, c'est un des styles qui vieillit le mieux.
+  - EN : Graphic work plays on the contrast between skin and black. Well-packed black stays sharp for a very long time; it's one of the styles that ages best.
+- **styles.items.graphique.body[2]**
+  - FR : Une couleur unique, souvent du rouge, suffit à faire ressortir tout le dessin. On en discute selon votre peau et la zone.
+  - EN : A single colour, often red, is enough to make the whole design pop. We'll discuss it depending on your skin and the placement.
+- **styles.items.graphique.body[3]**
+  - FR : Ces pièces sont aussi une bonne piste pour recouvrir un ancien tatouage : le noir couvre beaucoup. Voir la page cover.
+  - EN : These pieces are also a good route for covering an old tattoo: black covers a lot. See the cover-up page.
+- **styles.items.cover.name**
+  - FR : Cover
+  - EN : Cover-up
+- **styles.items.cover.short**
+  - FR : Recouvrir ou retravailler un ancien tatouage.
+  - EN : Covering or reworking an old tattoo.
+- **styles.items.cover.title**
+  - FR : Cover de tatouage à Amiens
+  - EN : Tattoo cover-ups in Amiens
+- **styles.items.cover.metaTitle**
+  - FR : Cover tatouage à Amiens : recouvrir un ancien tatouage | Fred-Ink
+  - EN : Tattoo cover-up in Amiens: cover an old tattoo | Fred-Ink
+- **styles.items.cover.metaDesc**
+  - FR : Recouvrement de tatouage (cover) et retouches à Amiens. Envoyez une photo de votre ancien tatouage : l'artiste vous dit honnêtement ce qui est possible.
+  - EN : Tattoo cover-ups and touch-ups in Amiens. Send a photo of your old tattoo and the artist will tell you honestly what's possible.
+- **styles.items.cover.intro**
+  - FR : Un ancien tatouage qui ne vous ressemble plus, un trait qui a bavé, un prénom à faire disparaître : on regarde ensemble ce qu'on peut recouvrir ou retravailler.
+  - EN : An old tattoo that isn't you any more, a line that has blurred, a name you want gone: let's look together at what can be covered or reworked.
+- **styles.items.cover.body[1]**
+  - FR : Tout commence par une photo nette de l'ancien tatouage, en lumière du jour. Avec elle, l'artiste voit tout de suite ce qui est possible et ce qui ne l'est pas.
+  - EN : It all starts with a sharp photo of the old tattoo in daylight. From that, the artist can see straight away what's possible and what isn't.
+- **styles.items.cover.body[2]**
+  - FR : Un cover est presque toujours plus grand et plus sombre que le tatouage d'origine : les zones foncées, les fleurs, le réalisme et le graphique s'y prêtent bien. Un motif très clair ou très fin, en revanche, ne cachera rien.
+  - EN : A cover-up is almost always bigger and darker than the original: dark areas, flowers, realism and graphic work suit it well. A very light or fine design won't hide anything.
+- **styles.items.cover.body[3]**
+  - FR : Si le tatouage est très chargé, quelques séances de détatouage au laser peuvent l'éclaircir avant. L'artiste vous le dira franchement plutôt que de vous promettre un miracle.
+  - EN : If the tattoo is very heavy, a few laser sessions can lighten it first. The artist will tell you straight rather than promise a miracle.
+- **styles.items.cover.body[4]**
+  - FR : Les photos avant et après de nos covers arrivent bientôt sur cette page.
+  - EN : Before and after photos of our cover-ups are coming to this page soon.
+- **styleNav.others**
+  - FR : Les autres styles
+  - EN : Other styles
+- **styleNav.pieces**
+  - FR : Pièces dans ce style
+  - EN : Work in this style
+- **styleNav.none**
+  - FR : Les photos de ce style arrivent bientôt. En attendant, le travail du studio est sur Instagram.
+  - EN : Photos of this style are coming soon. Meanwhile, the studio's work is on Instagram.
+- **styleNav.cta**
+  - FR : Proposer un projet {style}
+  - EN : Send a {style} idea
+- **artists.eyebrow**
+  - FR : L'équipe
+  - EN : The team
+- **artists.title**
+  - FR : Les artistes
+  - EN : The artists
+- **artists.lead**
+  - FR : Chaque artiste a son trait. Regardez leur travail, puis choisissez, ou laissez-nous vous orienter vers la bonne personne.
+  - EN : Every artist has their own line. Look through their work and choose, or let us point you to the right person.
+- **artists.with**
+  - FR : Un projet avec {name}
+  - EN : A project with {name}
+- **artists.instagram**
+  - FR : Son Instagram
+  - EN : Instagram
+- **artists.pieces**
+  - FR : Ses pièces
+  - EN : Their work
+- **artists.noPieces**
+  - FR : Son portfolio complet est sur Instagram.
+  - EN : Their full portfolio is on Instagram.
+- **artists.portraitSoon**
+  - FR : Portrait à venir
+  - EN : Portrait coming soon
+- **artists.styles**
+  - FR : Styles
+  - EN : Styles
+- **artists.pageTitle**
+  - FR : {name}, tatoueur·se à Amiens
+  - EN : {name}, tattoo artist in Amiens
+- **artists.pageMetaTitle**
+  - FR : {name}, tatouage à Amiens | Fred-Ink Tattoo Studio
+  - EN : {name}, tattoo in Amiens | Fred-Ink Tattoo Studio
+- **artists.pageMetaDesc**
+  - FR : {name} tatoue chez Fred-Ink Tattoo Studio, 25 rue du Général Leclerc à Amiens. Son travail, ses styles, et un formulaire pour lui proposer votre projet.
+  - EN : {name} tattoos at Fred-Ink Tattoo Studio, 25 rue du Général Leclerc, Amiens. Their work, styles, and a form to send them your idea.
+- **artists.pageLead**
+  - FR : {name} fait partie de l'équipe Fred-Ink, rue du Général Leclerc. Son travail récent est sur Instagram ; envoyez votre idée, et {name} vous recontacte.
+  - EN : {name} is part of the Fred-Ink team on rue du Général Leclerc. Their latest work is on Instagram; send your idea and {name} will get back to you.
+- **artists.back**
+  - FR : Toute l'équipe
+  - EN : The whole team
+- **artists.others**
+  - FR : Les autres artistes
+  - EN : Other artists
+- **projects.eyebrow**
+  - FR : Projets
+  - EN : Work
+- **projects.title**
+  - FR : Des pièces, pas une galerie
+  - EN : Pieces, not a gallery
+- **projects.lead**
+  - FR : Chaque pièce avec son style et sa zone. Filtrez par style ou par artiste, ouvrez une photo pour la voir en grand.
+  - EN : Each piece with its style and placement. Filter by style or artist, and open a photo to see it full size.
+- **projects.filterStyle**
+  - FR : Style
+  - EN : Style
+- **projects.filterArtist**
+  - FR : Artiste
+  - EN : Artist
+- **projects.all**
+  - FR : Tous
+  - EN : All
+- **projects.count**
+  - FR : {n} pièces
+  - EN : {n} pieces
+- **projects.zone**
+  - FR : Zone
+  - EN : Placement
+- **projects.sessions**
+  - FR : {n} séance(s)
+  - EN : {n} session(s)
+- **projects.artist**
+  - FR : Artiste
+  - EN : Artist
+- **projects.color**
+  - FR : Couleur
+  - EN : Colour
+- **projects.bw**
+  - FR : Noir et gris
+  - EN : Black and grey
+- **projects.open**
+  - FR : Voir en grand : {alt}
+  - EN : View full size: {alt}
+- **projects.close**
+  - FR : Fermer
+  - EN : Close
+- **projects.prev**
+  - FR : Pièce précédente
+  - EN : Previous piece
+- **projects.next**
+  - FR : Pièce suivante
+  - EN : Next piece
+- **projects.similar**
+  - FR : Un projet dans ce style
+  - EN : An idea in this style
+- **projects.more**
+  - FR : Voir plus de pièces
+  - EN : Show more work
+- **projects.empty**
+  - FR : Aucune pièce pour ce filtre pour l'instant.
+  - EN : No pieces for this filter yet.
+- **zones.avant-bras**
+  - FR : Avant-bras
+  - EN : Forearm
+- **zones.bras**
+  - FR : Bras
+  - EN : Arm
+- **zones.epaule**
+  - FR : Épaule et bras
+  - EN : Shoulder and arm
+- **zones.main**
+  - FR : Avant-bras et main
+  - EN : Forearm and hand
+- **zones.dos**
+  - FR : Haut du dos et nuque
+  - EN : Upper back and neck
+- **zones.mollet**
+  - FR : Mollet
+  - EN : Calf
+- **zones.poitrine**
+  - FR : Poitrine
+  - EN : Chest
+- **zones.omoplate**
+  - FR : Omoplate
+  - EN : Shoulder blade
+- **zones.bras-torse**
+  - FR : Bras et torse
+  - EN : Arms and chest
+- **reviews.eyebrow**
+  - FR : Avis Google
+  - EN : Google reviews
+- **reviews.title**
+  - FR : Ce qui revient dans vos avis
+  - EN : What your reviews keep saying
+- **reviews.items[1].t**
+  - FR : L'équipe
+  - EN : The team
+- **reviews.items[1].p**
+  - FR : C'est ce que les clients citent le plus : l'accueil, la bonne humeur du studio, et des artistes qui prennent le temps d'expliquer.
+  - EN : It's what clients mention most: the welcome, the good mood in the studio, and artists who take the time to explain.
+- **reviews.items[2].t**
+  - FR : Les prix
+  - EN : The prices
+- **reviews.items[2].p**
+  - FR : Des tarifs jugés justes, annoncés avant de commencer. Vous savez où vous allez avant que l'aiguille ne touche la peau.
+  - EN : Prices people find fair, given before anything starts. You know where you stand before the needle touches skin.
+- **reviews.link**
+  - FR : Lire les avis sur Google
+  - EN : Read the reviews on Google
+- **piercing.eyebrow**
+  - FR : Piercing
+  - EN : Piercing
+- **piercing.title**
+  - FR : Deux perceurs, et des bijoux à la pelle
+  - EN : Two piercers, and jewellery galore
+- **piercing.lead**
+  - FR : Oreilles, nez, lèvre, nombril : nos deux perceurs posent votre bijou avec du matériel stérile et vous expliquent les soins avant que vous repartiez.
+  - EN : Ears, nose, lip, navel: our two piercers fit your jewellery with sterile equipment and walk you through aftercare before you leave.
+- **piercing.from**
+  - FR : à partir de {price}
+  - EN : from {price}
+- **piercing.priceOnSite**
+  - FR : Prix au studio
+  - EN : Price at the studio
+- **piercing.jewels**
+  - FR : Bijoux
+  - EN : Jewellery
+- **piercing.jewelsText**
+  - FR : Un grand choix de bijoux au studio, pour la première pose comme pour changer plus tard. Les matériaux adaptés à une première pose vous sont indiqués sur place.
+  - EN : A wide choice of jewellery at the studio, for a first piercing or a change later. We'll tell you which materials suit a fresh piercing.
+- **piercing.rdv**
+  - FR : Les piercings se font au studio ou sur rendez-vous par téléphone.
+  - EN : Piercings are done at the studio, or by appointment over the phone.
+- **piercing.more**
+  - FR : Prestations et soins
+  - EN : Services and aftercare
+- **piercing.imageAlt**
+  - FR : Piercing daith avec anneau ciselé et petit tatouage ornemental près de l'oreille
+  - EN : Daith piercing with an engraved ring and a small ornamental tattoo by the ear
+- **piercing.pageTitle**
+  - FR : Piercing à Amiens
+  - EN : Piercing in Amiens
+- **piercing.pageMetaTitle**
+  - FR : Piercing à Amiens : oreille, nez, lèvre, nombril | Fred-Ink
+  - EN : Piercing in Amiens: ear, nose, lip, navel | Fred-Ink
+- **piercing.pageMetaDesc**
+  - FR : Piercing à Amiens chez Fred-Ink Tattoo Studio : lobe, hélix, daith, narine, septum, lèvre, nombril. Deux perceurs, matériel stérile, grand choix de bijoux.
+  - EN : Piercing in Amiens at Fred-Ink Tattoo Studio: lobe, helix, daith, nostril, septum, lip, navel. Two piercers, sterile equipment, plenty of jewellery.
+- **piercing.care**
+  - FR : Soins après un piercing
+  - EN : Piercing aftercare
+- **piercing.careItems[1]**
+  - FR : Lavez-vous les mains avant de toucher le piercing.
+  - EN : Wash your hands before touching the piercing.
+- **piercing.careItems[2]**
+  - FR : Nettoyez une à deux fois par jour avec le produit conseillé au studio, sans tourner le bijou.
+  - EN : Clean once or twice a day with the product recommended at the studio, without twisting the jewellery.
+- **piercing.careItems[3]**
+  - FR : Évitez piscine, mer et bain pendant les premières semaines.
+  - EN : Avoid pools, the sea and baths for the first few weeks.
+- **piercing.careItems[4]**
+  - FR : Ne changez pas le bijou avant la fin de la cicatrisation : passez au studio, on le fera avec vous.
+  - EN : Don't change the jewellery before it has healed: drop by and we'll do it with you.
+- **piercing.healing**
+  - FR : La cicatrisation va de quelques semaines pour un lobe à plusieurs mois pour un cartilage ou un nombril.
+  - EN : Healing takes from a few weeks for a lobe to several months for cartilage or a navel.
+- **process.eyebrow**
+  - FR : Comment ça marche
+  - EN : How it works
+- **process.title**
+  - FR : De l'idée à la cicatrisation
+  - EN : From idea to healed
+- **process.steps[1].t**
+  - FR : Vous envoyez votre idée
+  - EN : You send your idea
+- **process.steps[1].p**
+  - FR : Le formulaire en ligne : votre idée, la zone, la taille, vos références. Ou passez au studio.
+  - EN : The online form: your idea, placement, size and references. Or drop by the studio.
+- **process.steps[2].t**
+  - FR : L'artiste vous recontacte
+  - EN : The artist gets back to you
+- **process.steps[2].p**
+  - FR : Par téléphone ou par e-mail, pour poser les bonnes questions et vous dire ce qui est faisable.
+  - EN : By phone or email, to ask the right questions and tell you what's doable.
+- **process.steps[3].t**
+  - FR : Rendez-vous et devis
+  - EN : Consultation and quote
+- **process.steps[3].p**
+  - FR : On affine le projet ensemble, on fixe le prix, la durée et la date de la séance.
+  - EN : We refine the design together and set the price, length and date of the session.
+- **process.steps[4].t**
+  - FR : La séance
+  - EN : The session
+- **process.steps[4].p**
+  - FR : Le dessin est validé sur votre peau avant de commencer. Vous pouvez demander une pause quand vous voulez.
+  - EN : The stencil is checked on your skin before we start. Ask for a break whenever you like.
+- **process.steps[5].t**
+  - FR : Les soins
+  - EN : Aftercare
+- **process.steps[5].p**
+  - FR : Vous repartez avec les consignes de soin. Une question pendant la cicatrisation ? Appelez-nous.
+  - EN : You leave with aftercare instructions. A question while it heals? Call us.
+- **hygiene.eyebrow**
+  - FR : Hygiène et sécurité
+  - EN : Hygiene and safety
+- **hygiene.title**
+  - FR : Propre, sans discussion
+  - EN : Clean, no discussion
+- **hygiene.items[1].t**
+  - FR : Usage unique
+  - EN : Single use
+- **hygiene.items[1].p**
+  - FR : Aiguilles, cartouches, gants, protections : tout ce qui touche la peau est neuf, ouvert devant vous et jeté après la séance.
+  - EN : Needles, cartridges, gloves, covers: everything that touches skin is new, opened in front of you and thrown away after the session.
+- **hygiene.items[2].t**
+  - FR : Poste nettoyé et protégé
+  - EN : Cleaned, covered station
+- **hygiene.items[2].p**
+  - FR : Le poste est désinfecté et recouvert de films neufs entre chaque client.
+  - EN : The station is disinfected and covered with fresh film between every client.
+- **hygiene.items[3].t**
+  - FR : Encres conformes
+  - EN : Compliant inks
+- **hygiene.items[3].p**
+  - FR : Des encres conformes à la réglementation européenne en vigueur pour les tatouages.
+  - EN : Inks that comply with current European regulations for tattooing.
+- **hygiene.items[4].t**
+  - FR : Formation obligatoire
+  - EN : Mandatory training
+- **hygiene.items[4].p**
+  - FR : En France, tatoueurs et perceurs doivent suivre une formation aux conditions d'hygiène et déclarer leur activité à l'Agence régionale de santé.
+  - EN : In France, tattooers and piercers must complete hygiene training and declare their activity to the regional health agency.
+- **hygiene.note**
+  - FR : Une question sur le matériel ? Demandez à voir, on vous montre.
+  - EN : Curious about the equipment? Ask and we'll show you.
+- **advice.eyebrow**
+  - FR : Conseils
+  - EN : Aftercare
+- **advice.title**
+  - FR : Avant, pendant, après
+  - EN : Before, during, after
+- **advice.groups[1].t**
+  - FR : Avant la séance
+  - EN : Before the session
+- **advice.groups[1].items[1]**
+  - FR : Dormez bien et mangez avant de venir.
+  - EN : Sleep well and eat before you come.
+- **advice.groups[1].items[2]**
+  - FR : Pas d'alcool la veille ni le jour même.
+  - EN : No alcohol the day before or on the day.
+- **advice.groups[1].items[3]**
+  - FR : Hydratez la zone les jours précédents, sans coup de soleil.
+  - EN : Moisturise the area in the days before, and avoid sunburn.
+- **advice.groups[1].items[4]**
+  - FR : Portez des vêtements qui laissent la zone accessible.
+  - EN : Wear clothes that leave the area easy to reach.
+- **advice.groups[2].t**
+  - FR : Les soins après
+  - EN : Aftercare
+- **advice.groups[2].items[1]**
+  - FR : Gardez le film le temps indiqué par l'artiste.
+  - EN : Keep the film on for as long as the artist says.
+- **advice.groups[2].items[2]**
+  - FR : Lavez doucement à l'eau tiède et au savon doux, séchez en tamponnant.
+  - EN : Wash gently with lukewarm water and mild soap, pat dry.
+- **advice.groups[2].items[3]**
+  - FR : Appliquez une fine couche de la crème conseillée, deux à trois fois par jour.
+  - EN : Apply a thin layer of the recommended cream two or three times a day.
+- **advice.groups[2].items[4]**
+  - FR : Ne grattez pas, n'arrachez pas les petites croûtes.
+  - EN : Don't scratch or pick at small scabs.
+- **advice.groups[3].t**
+  - FR : La cicatrisation
+  - EN : Healing
+- **advice.groups[3].items[1]**
+  - FR : Comptez deux à quatre semaines pour la surface de la peau.
+  - EN : Allow two to four weeks for the surface of the skin.
+- **advice.groups[3].items[2]**
+  - FR : Pas de piscine, de mer, de bain ni de sauna pendant cette période.
+  - EN : No pools, sea, baths or sauna during that time.
+- **advice.groups[3].items[3]**
+  - FR : Protégez du soleil : écran total ensuite, toute l'année.
+  - EN : Keep it out of the sun, then use high SPF all year round.
+- **advice.groups[3].items[4]**
+  - FR : Une retouche est parfois utile : on en parle une fois la peau bien cicatrisée.
+  - EN : A touch-up is sometimes useful: we'll talk about it once the skin has fully healed.
+- **studio.eyebrow**
+  - FR : Le studio
+  - EN : The studio
+- **studio.title**
+  - FR : Dix-neuf ans rue du Général Leclerc
+  - EN : Nineteen years on rue du Général Leclerc
+- **studio.text[1]**
+  - FR : Fred-Ink tatoue et perce Amiens depuis dix-neuf ans. Ce qui a commencé autour de Fred est devenu une équipe de huit tatoueurs et deux perceurs, chacun avec son style.
+  - EN : Fred-Ink has been tattooing and piercing Amiens for nineteen years. What started around Fred has grown into a team of eight tattooers and two piercers, each with their own style.
+- **studio.text[2]**
+  - FR : Et de temps en temps, on ouvre les portes pour une soirée au studio : offres sur le piercing et les bijoux, tirage au sort, un verre. Les dates sont annoncées sur Instagram.
+  - EN : Every now and then we open the doors for a studio night: piercing and jewellery offers, a prize draw, a drink. Dates are announced on Instagram.
+- **studio.cta**
+  - FR : Venir au studio
+  - EN : Visit the studio
+- **studio.imageAlt**
+  - FR : Devanture du studio Fred-Ink Tattoo, enseigne et vitrine, rue du Général Leclerc à Amiens
+  - EN : Fred-Ink Tattoo studio shopfront, sign and window, rue du Général Leclerc in Amiens
+- **studio.photosSoon**
+  - FR : Photos de l'intérieur à venir
+  - EN : Interior photos coming soon
+- **insta.eyebrow**
+  - FR : Instagram
+  - EN : Instagram
+- **insta.title**
+  - FR : Le travail de la semaine
+  - EN : This week's work
+- **insta.follow**
+  - FR : Suivre {handle}
+  - EN : Follow {handle}
+- **infos.eyebrow**
+  - FR : Infos pratiques
+  - EN : Visit
+- **infos.title**
+  - FR : Nous trouver
+  - EN : Find us
+- **infos.address**
+  - FR : Adresse
+  - EN : Address
+- **infos.hours**
+  - FR : Horaires
+  - EN : Opening hours
+- **infos.phone**
+  - FR : Téléphone
+  - EN : Phone
+- **infos.access**
+  - FR : Accès
+  - EN : Getting here
+- **infos.accessText**
+  - FR : Rue du Général Leclerc, à Amiens. Venez à pied, en bus ou à vélo ; pour la voiture, stationnement dans les rues voisines.
+  - EN : On rue du Général Leclerc in Amiens. Come on foot, by bus or by bike; if you drive, park in the nearby streets.
+- **infos.directions**
+  - FR : Itinéraire
+  - EN : Directions
+- **infos.rdv**
+  - FR : Rendez-vous sur place, par téléphone ou via le formulaire de projet.
+  - EN : Appointments in person, by phone, or through the project form.
+- **infos.closed**
+  - FR : Fermé
+  - EN : Closed
+- **infos.closures**
+  - FR : Fermetures exceptionnelles
+  - EN : Exceptional closures
+- **status.open**
+  - FR : Ouvert
+  - EN : Open
+- **status.closed**
+  - FR : Fermé
+  - EN : Closed
+- **status.until**
+  - FR : jusqu'à {time}
+  - EN : until {time}
+- **status.reopens**
+  - FR : réouverture {day} à {time}
+  - EN : reopens {day} at {time}
+- **status.today**
+  - FR : aujourd'hui
+  - EN : today
+- **status.tomorrow**
+  - FR : demain
+  - EN : tomorrow
+- **days[1]**
+  - FR : dimanche
+  - EN : Sunday
+- **days[2]**
+  - FR : lundi
+  - EN : Monday
+- **days[3]**
+  - FR : mardi
+  - EN : Tuesday
+- **days[4]**
+  - FR : mercredi
+  - EN : Wednesday
+- **days[5]**
+  - FR : jeudi
+  - EN : Thursday
+- **days[6]**
+  - FR : vendredi
+  - EN : Friday
+- **days[7]**
+  - FR : samedi
+  - EN : Saturday
+- **daysShort[1]**
+  - FR : Dim.
+  - EN : Sun
+- **daysShort[2]**
+  - FR : Lun.
+  - EN : Mon
+- **daysShort[3]**
+  - FR : Mar.
+  - EN : Tue
+- **daysShort[4]**
+  - FR : Mer.
+  - EN : Wed
+- **daysShort[5]**
+  - FR : Jeu.
+  - EN : Thu
+- **daysShort[6]**
+  - FR : Ven.
+  - EN : Fri
+- **daysShort[7]**
+  - FR : Sam.
+  - EN : Sat
+- **faq.eyebrow**
+  - FR : Questions fréquentes
+  - EN : FAQ
+- **faq.title**
+  - FR : Avant de vous lancer
+  - EN : Before you go for it
+- **faq.items[1].q**
+  - FR : Combien coûte un tatouage ?
+  - EN : How much does a tattoo cost?
+- **faq.items[1].a**
+  - FR : Le prix dépend de la taille, de la zone, du niveau de détail et du nombre de séances. Il vous est donné avant de commencer, au rendez-vous de préparation. Envoyez votre projet avec un budget indicatif : l'artiste vous dit ce qui est possible.
+  - EN : The price depends on size, placement, detail and the number of sessions. You get it before anything starts, at the consultation. Send your idea with a rough budget and the artist will tell you what's possible.
+- **faq.items[2].q**
+  - FR : Faut-il verser un acompte ?
+  - EN : Is there a deposit?
+- **faq.items[2].a**
+  - FR : Un acompte peut être demandé pour bloquer la date de la séance ; il est ensuite déduit du prix. Son montant vous est indiqué avec le devis.
+  - EN : A deposit may be asked to hold your session date; it's then taken off the final price. The amount comes with the quote.
+- **faq.items[3].q**
+  - FR : Je suis mineur, est-ce possible ?
+  - EN : I'm under 18, can I get tattooed?
+- **faq.items[3].a**
+  - FR : En France, un tatouage ou un piercing sur un mineur demande l'autorisation écrite d'un parent ou du tuteur légal. Le parent vient avec vous, avec sa pièce d'identité. L'artiste peut refuser certains projets ou certaines zones avant 18 ans.
+  - EN : In France, tattooing or piercing a minor requires written consent from a parent or legal guardian, who comes with you with their ID. The artist may turn down some designs or placements before 18.
+- **faq.items[4].q**
+  - FR : Faites-vous des covers et des retouches ?
+  - EN : Do you do cover-ups and touch-ups?
+- **faq.items[4].a**
+  - FR : Oui. Pour un cover, envoyez une photo nette de l'ancien tatouage : l'artiste vous dit franchement ce qu'on peut recouvrir. Pour une retouche d'une pièce faite au studio, appelez-nous.
+  - EN : Yes. For a cover-up, send a sharp photo of the old tattoo and the artist will tell you honestly what can be covered. For a touch-up on a piece done at the studio, give us a call.
+- **faq.items[5].q**
+  - FR : Est-ce que ça fait mal ?
+  - EN : Does it hurt?
+- **faq.items[5].a**
+  - FR : Un peu, et ça dépend de la zone : les côtes, les pieds ou l'intérieur du bras sont plus sensibles que l'épaule ou l'avant-bras. On fait des pauses quand vous en avez besoin.
+  - EN : A little, and it depends on the area: ribs, feet or the inner arm are more sensitive than the shoulder or forearm. We take breaks whenever you need.
+- **faq.items[6].q**
+  - FR : Combien de temps dure une séance ?
+  - EN : How long is a session?
+- **faq.items[6].a**
+  - FR : De moins d'une heure pour une petite pièce à plusieurs heures pour une grande. Les manchettes se font en plusieurs séances, espacées de quelques semaines.
+  - EN : From under an hour for a small piece to several hours for a large one. Sleeves are done over several sessions, a few weeks apart.
+- **faq.items[7].q**
+  - FR : Peut-on venir sans rendez-vous ?
+  - EN : Can I walk in?
+- **faq.items[7].a**
+  - FR : Passez au studio pour parler de votre projet ou d'un piercing ; pour un tatouage, la séance se fait sur rendez-vous. Le plus simple : le formulaire en ligne, ou un appel.
+  - EN : Drop by to talk about your idea or a piercing; tattoo sessions are by appointment. The easiest way: the online form, or a call.
+- **form.eyebrow**
+  - FR : Demande de projet
+  - EN : Project request
+- **form.title**
+  - FR : Proposer mon projet
+  - EN : Send my idea
+- **form.metaTitle**
+  - FR : Proposer mon projet de tatouage | Fred-Ink Tattoo Studio Amiens
+  - EN : Send your tattoo idea | Fred-Ink Tattoo Studio Amiens
+- **form.metaDesc**
+  - FR : Envoyez votre idée de tatouage à Fred-Ink Tattoo Studio, Amiens : style, zone, taille, références, budget. L'artiste vous recontacte.
+  - EN : Send your tattoo idea to Fred-Ink Tattoo Studio, Amiens: style, placement, size, references, budget. The artist will get back to you.
+- **form.lead**
+  - FR : Plus vous êtes précis, plus la réponse sera juste. Comptez cinq minutes. L'artiste vous recontacte pour en parler, rien n'est engagé à ce stade.
+  - EN : The more precise you are, the better the answer. It takes about five minutes. The artist gets back to you to talk it through; nothing is committed at this stage.
+- **form.callInstead**
+  - FR : Vous préférez en parler ?
+  - EN : Rather talk it through?
+- **form.s1**
+  - FR : Le projet
+  - EN : The idea
+- **form.s2**
+  - FR : Les détails
+  - EN : The details
+- **form.s3**
+  - FR : Vous
+  - EN : You
+- **form.artist**
+  - FR : Artiste souhaité
+  - EN : Preferred artist
+- **form.anyArtist**
+  - FR : Peu importe, orientez-moi
+  - EN : No preference, guide me
+- **form.style**
+  - FR : Style
+  - EN : Style
+- **form.styleUnsure**
+  - FR : Je ne sais pas encore
+  - EN : Not sure yet
+- **form.idea**
+  - FR : Votre idée
+  - EN : Your idea
+- **form.ideaHint**
+  - FR : Ce que vous voulez représenter, ce que ça signifie pour vous, les éléments à garder absolument.
+  - EN : What you'd like to show, what it means to you, the elements you absolutely want to keep.
+- **form.zone**
+  - FR : Zone du corps
+  - EN : Placement
+- **form.zonePlaceholder**
+  - FR : Avant-bras intérieur, omoplate gauche…
+  - EN : Inner forearm, left shoulder blade…
+- **form.size**
+  - FR : Taille approximative
+  - EN : Approximate size
+- **form.sizes.s**
+  - FR : Petit (moins de 8 cm)
+  - EN : Small (under 8 cm)
+- **form.sizes.m**
+  - FR : Moyen (8 à 15 cm)
+  - EN : Medium (8 to 15 cm)
+- **form.sizes.l**
+  - FR : Grand (15 à 25 cm)
+  - EN : Large (15 to 25 cm)
+- **form.sizes.xl**
+  - FR : Très grand, manchette, dos
+  - EN : Very large, sleeve, back
+- **form.colour**
+  - FR : Couleur
+  - EN : Colour
+- **form.colours.bw**
+  - FR : Noir et gris
+  - EN : Black and grey
+- **form.colours.color**
+  - FR : Couleur
+  - EN : Colour
+- **form.colours.unsure**
+  - FR : À voir avec l'artiste
+  - EN : To discuss with the artist
+- **form.first**
+  - FR : Premier tatouage ?
+  - EN : First tattoo?
+- **form.yes**
+  - FR : Oui
+  - EN : Yes
+- **form.no**
+  - FR : Non
+  - EN : No
+- **form.kind**
+  - FR : Type de projet
+  - EN : Type of project
+- **form.kinds.new**
+  - FR : Nouvelle pièce
+  - EN : New piece
+- **form.kinds.cover**
+  - FR : Cover d'un ancien tatouage
+  - EN : Cover-up of an old tattoo
+- **form.kinds.rework**
+  - FR : Retouche, agrandissement
+  - EN : Touch-up, extension
+- **form.photos**
+  - FR : Photos de référence
+  - EN : Reference photos
+- **form.photosHint**
+  - FR : Jusqu'à 3 images (références, zone du corps, ancien tatouage pour un cover).
+  - EN : Up to 3 images (references, the placement, the old tattoo for a cover-up).
+- **form.addPhoto**
+  - FR : Ajouter une photo
+  - EN : Add a photo
+- **form.remove**
+  - FR : Retirer
+  - EN : Remove
+- **form.budget**
+  - FR : Budget indicatif
+  - EN : Rough budget
+- **form.budgets.a**
+  - FR : Moins de 150 €
+  - EN : Under €150
+- **form.budgets.b**
+  - FR : 150 à 300 €
+  - EN : €150 to €300
+- **form.budgets.c**
+  - FR : 300 à 600 €
+  - EN : €300 to €600
+- **form.budgets.d**
+  - FR : 600 à 1 000 €
+  - EN : €600 to €1,000
+- **form.budgets.e**
+  - FR : Plus de 1 000 €
+  - EN : Over €1,000
+- **form.budgets.u**
+  - FR : Je ne sais pas
+  - EN : Not sure
+- **form.availability**
+  - FR : Vos disponibilités
+  - EN : Your availability
+- **form.availabilityHint**
+  - FR : Jours et moments qui vous arrangent, délai souhaité.
+  - EN : Days and times that suit you, and how soon you'd like it.
+- **form.name**
+  - FR : Nom et prénom
+  - EN : Full name
+- **form.age**
+  - FR : Âge
+  - EN : Age
+- **form.minor**
+  - FR : Avant 18 ans, un tatouage ou un piercing demande l'autorisation écrite d'un parent ou du tuteur légal, présent le jour de la séance avec sa pièce d'identité. Certains projets peuvent être refusés aux mineurs. Vous pouvez tout de même envoyer votre demande.
+  - EN : Under 18, a tattoo or piercing requires written consent from a parent or legal guardian, who must be present on the day with their ID. Some designs may be turned down for minors. You can still send your request.
+- **form.phone**
+  - FR : Téléphone
+  - EN : Phone
+- **form.email**
+  - FR : E-mail
+  - EN : Email
+- **form.consent**
+  - FR : J'accepte que le studio utilise ces informations pour me recontacter au sujet de mon projet.
+  - EN : I agree that the studio may use this information to contact me about my project.
+- **form.required**
+  - FR : obligatoire
+  - EN : required
+- **form.next**
+  - FR : Continuer
+  - EN : Continue
+- **form.back**
+  - FR : Retour
+  - EN : Back
+- **form.send**
+  - FR : Envoyer mon projet
+  - EN : Send my idea
+- **form.sending**
+  - FR : Envoi…
+  - EN : Sending…
+- **form.errors.idea**
+  - FR : Décrivez votre idée en quelques mots.
+  - EN : Describe your idea in a few words.
+- **form.errors.zone**
+  - FR : Indiquez la zone.
+  - EN : Tell us the placement.
+- **form.errors.size**
+  - FR : Choisissez une taille.
+  - EN : Choose a size.
+- **form.errors.name**
+  - FR : Indiquez votre nom.
+  - EN : Tell us your name.
+- **form.errors.age**
+  - FR : Indiquez votre âge.
+  - EN : Tell us your age.
+- **form.errors.contact**
+  - FR : Un téléphone ou un e-mail valide, pour qu'on puisse vous répondre.
+  - EN : A valid phone number or email, so we can reply.
+- **form.errors.consent**
+  - FR : Cochez la case pour qu'on puisse vous recontacter.
+  - EN : Tick the box so we can contact you.
+- **form.errors.photo**
+  - FR : Cette image n'a pas pu être lue.
+  - EN : This image couldn't be read.
+- **form.errors.send**
+  - FR : L'envoi n'a pas abouti. Réessayez, ou appelez le studio.
+  - EN : Sending failed. Try again, or call the studio.
+- **form.done.title**
+  - FR : Merci, c'est envoyé
+  - EN : Thank you, it's sent
+- **form.done.text**
+  - FR : Votre projet est arrivé au studio. {artist} vous recontacte pour en parler.
+  - EN : Your idea has reached the studio. {artist} will get back to you to talk it through.
+- **form.done.artistAny**
+  - FR : L'artiste le plus adapté
+  - EN : The best-suited artist
+- **form.done.mail**
+  - FR : Un récapitulatif vient de partir à {email}.
+  - EN : A summary has just been sent to {email}.
+- **form.done.pending**
+  - FR : Dernière étape : appelez-nous pour qu'on retrouve votre demande, le formulaire en ligne n'est pas encore relié à la boîte du studio.
+  - EN : One last step: give us a call so we can find your request; the online form isn't connected to the studio's inbox yet.
+- **form.done.seeWork**
+  - FR : En attendant, regardez le travail de {handle} sur Instagram.
+  - EN : Meanwhile, have a look at {handle}'s work on Instagram.
+- **form.done.again**
+  - FR : Envoyer un autre projet
+  - EN : Send another idea
+- **form.deposit**
+  - FR : Acompte en ligne : bientôt disponible.
+  - EN : Online deposit: coming soon.
+- **form.email_.subject**
+  - FR : Nouveau projet
+  - EN : New project
+- **form.email_.confirmSubject**
+  - FR : Votre projet chez Fred-Ink Tattoo Studio
+  - EN : Your idea at Fred-Ink Tattoo Studio
+- **form.email_.confirmIntro**
+  - FR : Bonjour {name}, ⏎  ⏎ Merci pour votre projet. Le voici tel que nous l'avons reçu ; l'artiste vous recontacte pour en parler.
+  - EN : Hello {name}, ⏎  ⏎ Thank you for your idea. Here it is as we received it; the artist will get back to you to talk it through.
+- **form.email_.confirmOutro**
+  - FR : À bientôt au studio, ⏎ Fred-Ink Tattoo Studio ⏎ 25 rue du Général Leclerc, 80000 Amiens ⏎ 03 60 24 54 62
+  - EN : See you at the studio, ⏎ Fred-Ink Tattoo Studio ⏎ 25 rue du Général Leclerc, 80000 Amiens, France ⏎ +33 3 60 24 54 62
+- **form.email_.labels.artist**
+  - FR : Artiste
+  - EN : Artist
+- **form.email_.labels.style**
+  - FR : Style
+  - EN : Style
+- **form.email_.labels.idea**
+  - FR : Idée
+  - EN : Idea
+- **form.email_.labels.zone**
+  - FR : Zone
+  - EN : Placement
+- **form.email_.labels.size**
+  - FR : Taille
+  - EN : Size
+- **form.email_.labels.colour**
+  - FR : Couleur
+  - EN : Colour
+- **form.email_.labels.first**
+  - FR : Premier tatouage
+  - EN : First tattoo
+- **form.email_.labels.kind**
+  - FR : Type
+  - EN : Type
+- **form.email_.labels.budget**
+  - FR : Budget
+  - EN : Budget
+- **form.email_.labels.availability**
+  - FR : Disponibilités
+  - EN : Availability
+- **form.email_.labels.name**
+  - FR : Nom
+  - EN : Name
+- **form.email_.labels.age**
+  - FR : Âge
+  - EN : Age
+- **form.email_.labels.minor**
+  - FR : MINEUR : autorisation parentale écrite à prévoir
+  - EN : MINOR: written parental consent needed
+- **form.email_.labels.phone**
+  - FR : Téléphone
+  - EN : Phone
+- **form.email_.labels.email**
+  - FR : E-mail
+  - EN : Email
+- **form.email_.labels.photos**
+  - FR : Photos jointes
+  - EN : Attached photos
+- **form.email_.labels.lang**
+  - FR : Langue du client
+  - EN : Client language
+- **footer.tagline**
+  - FR : Tatouage et piercing à Amiens depuis dix-neuf ans.
+  - EN : Tattooing and piercing in Amiens for nineteen years.
+- **footer.contact**
+  - FR : Le studio
+  - EN : The studio
+- **footer.hours**
+  - FR : Horaires
+  - EN : Opening hours
+- **footer.artists**
+  - FR : Les artistes
+  - EN : The artists
+- **footer.styles**
+  - FR : Styles
+  - EN : Styles
+- **footer.rights**
+  - FR : Fred-Ink Tattoo Studio
+  - EN : Fred-Ink Tattoo Studio
+- **footer.legal**
+  - FR : Mentions légales
+  - EN : Legal notice
+- **footer.days**
+  - FR : Mardi au vendredi
+  - EN : Tuesday to Friday
+- **footer.saturday**
+  - FR : Samedi
+  - EN : Saturday
+- **footer.closed**
+  - FR : Fermé dimanche et lundi
+  - EN : Closed Sunday and Monday
+- **legal.title**
+  - FR : Mentions légales
+  - EN : Legal notice
+- **legal.metaDesc**
+  - FR : Mentions légales et données personnelles du site de Fred-Ink Tattoo Studio, Amiens.
+  - EN : Legal notice and personal data for the Fred-Ink Tattoo Studio website, Amiens.
+- **legal.editor**
+  - FR : Éditeur
+  - EN : Publisher
+- **legal.editorText**
+  - FR : Fred-Ink Tattoo Studio, 25 rue du Général Leclerc, 80000 Amiens. Téléphone : 03 60 24 54 62.
+  - EN : Fred-Ink Tattoo Studio, 25 rue du Général Leclerc, 80000 Amiens, France. Phone: +33 3 60 24 54 62.
+- **legal.pending**
+  - FR : Raison sociale, SIRET et directeur de la publication : à compléter.
+  - EN : Company name, SIRET and publication director: to be completed.
+- **legal.host**
+  - FR : Hébergement
+  - EN : Hosting
+- **legal.data**
+  - FR : Données personnelles
+  - EN : Personal data
+- **legal.dataText**
+  - FR : Les informations et photos envoyées par le formulaire de projet servent uniquement à vous recontacter au sujet de votre tatouage ou piercing. Elles ne sont ni revendues ni utilisées à d'autres fins, et sont supprimées sur simple demande au studio. Le site ne dépose aucun cookie publicitaire.
+  - EN : The information and photos sent through the project form are used only to contact you about your tattoo or piercing. They are never sold or used for anything else, and are deleted on request. The site sets no advertising cookies.
+- **legal.photos**
+  - FR : Photos
+  - EN : Photos
+- **legal.photosText**
+  - FR : Toutes les photos sont celles du studio et de ses artistes. Elles ne peuvent pas être reprises sans autorisation.
+  - EN : All photos belong to the studio and its artists and may not be reused without permission.

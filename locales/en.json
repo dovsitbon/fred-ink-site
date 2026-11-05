@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "title": "Tattoo and Piercing Studio in Amiens | Fred-Ink Tattoo Studio",
+    "description": "Fred-Ink Tattoo Studio, 25 rue du Général Leclerc, Amiens: realism, floral, fine line, colour, chicano, cover-ups and piercing. Eight tattooers, two piercers. Send us your idea online.",
+    "ogAlt": "Fred-Ink Tattoo Studio logo and a realistic Spartan half sleeve in black, grey and red"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "home": "Fred-Ink Tattoo Studio, home",
+    "menu": "Menu",
+    "close": "Close menu",
+    "artists": "Artists",
+    "projects": "Work",
+    "piercing": "Piercing",
+    "advice": "Aftercare",
+    "infos": "Visit",
+    "lang": "Language",
+    "instagram": "Studio Instagram",
+    "call": "Call",
+    "cta": "Send my idea"
+  },
+  "intro": { "skip": "Skip" },
+  "announce": { "close": "Close banner", "agendaFull": "Books are full for now. You can still send your idea and we'll get back to you as soon as a date opens up." },
+  "hero": {
+    "eyebrow": "Tattoo & piercing · Amiens · for 19 years",
+    "title": "Your idea, our line",
+    "lead": "Eight tattooers and two piercers on rue du Général Leclerc. Tell us what you have in mind: we draw it with you, tell you honestly what will hold up over time, and take the time it needs.",
+    "secondary": "Meet the artists",
+    "imageAlt": "Realistic half sleeve on the shoulder: a Spartan soldier before the Colosseum, black and grey with red"
+  },
+  "rating": { "label": "{value}/5 on Google", "count": "{count} reviews", "asOf": "Rating checked on {date}" },
+  "styles": {
+    "eyebrow": "Styles",
+    "title": "What we tattoo",
+    "seeAll": "See the work",
+    "items": {
+      "realisme": {
+        "name": "Realism",
+        "short": "Portraits, mythology, animals, black and grey or colour.",
+        "title": "Realism tattoos in Amiens",
+        "metaTitle": "Realism tattoo in Amiens: portraits, mythology | Fred-Ink",
+        "metaDesc": "Realism tattoos in Amiens at Fred-Ink Tattoo Studio: portraits, animals, Greek and Roman mythology, black and grey or colour. Send us your idea.",
+        "intro": "Realism lives on contrast and patience. Portraits, animals, Greek temples and gods, Roman soldiers: every piece is built so the depth still reads ten years on.",
+        "body": [
+          "Realism needs room. A readable portrait is rarely smaller than an open hand, and a mythological scene often takes the whole forearm. The artist will tell you honestly what size suits your idea.",
+          "Most pieces take several sessions, spaced out to let the skin heal. The exact number depends on the area and the detail, and is set at the consultation along with the quote.",
+          "Bring good references: a sharp, well-lit photo for a portrait, several images for a composition. The artist then draws a version made for your skin and the placement."
+        ]
+      },
+      "floral": {
+        "name": "Floral & ornamental",
+        "short": "Floral sleeves, mandalas, lace and symmetry.",
+        "title": "Floral and ornamental tattoos in Amiens",
+        "metaTitle": "Floral and ornamental tattoo in Amiens, sleeves | Fred-Ink",
+        "metaDesc": "Floral sleeves, peonies, roses, mandalas and ornaments in Amiens. Fred-Ink Tattoo Studio draws pieces that follow the shape of the arm.",
+        "intro": "Peonies, roses, lilies, mandalas and lace: pieces drawn to follow the arm from wrist to shoulder, with room to grow later.",
+        "body": [
+          "Good floral work follows the body. Flowers open towards the shoulder, ornaments fall onto the wrist: the design is drawn for the placement, not stuck on like a sticker.",
+          "Many sleeves start with a single flower. If you already have the rest in mind, say so: the artist leaves space so the next piece joins on seamlessly.",
+          "Black and grey is the most requested, but a touch of colour on the petals works beautifully. We'll talk it through at the consultation."
+        ]
+      },
+      "fineline": {
+        "name": "Fine line",
+        "short": "Delicate linework, from wrist to neck.",
+        "title": "Fine line tattoos in Amiens",
+        "metaTitle": "Fine line tattoo in Amiens | Fred-Ink",
+        "metaDesc": "Fine line tattoos in Amiens: butterflies, flowers, sun and moon, small delicate pieces. Honest advice on size so the line ages well.",
+        "intro": "Butterflies, flowers, sun and moon, small animals: light, delicate pieces for a first tattoo or to complete a composition.",
+        "body": [
+          "Fine lines age faster than bold ones: ink spreads a little over the years. That's why we may suggest going slightly bigger on a very detailed design. Better to know before.",
+          "These pieces are often done in one session. They make great first tattoos, and suit the forearm, shoulder blade or back of the neck.",
+          "Lettering, a date, a small symbol? Send the font or an example and the artist will suggest a readable version."
+        ]
+      },
+      "couleur": {
+        "name": "Colour & illustrative",
+        "short": "Manga, neo-traditional, Japanese, vivid pieces.",
+        "title": "Colour tattoos in Amiens",
+        "metaTitle": "Colour, manga and Japanese tattoo in Amiens | Fred-Ink",
+        "metaDesc": "Colour tattoos in Amiens: manga, anime, neo-traditional, Japanese sleeves. Saturated colour built to last, at Fred-Ink Tattoo Studio.",
+        "intro": "Manga and anime, cartoons, neo-traditional, Japanese sleeves: bold colour and clean outlines for pieces you can read from across the room.",
+        "body": [
+          "Colour lasts when the design is well built: a solid outline, strong contrast, saturated tones. The artist adapts your reference so it stays readable on skin.",
+          "Favourite character, a game's universe, a full scene: bring your images. The design is reworked, never just traced.",
+          "Large colour pieces take several sessions and regular care, especially in the sun. We'll explain everything at the consultation."
+        ]
+      },
+      "chicano": {
+        "name": "Chicano",
+        "short": "Faces, lettering, catrinas, in black and grey.",
+        "title": "Chicano tattoos in Amiens",
+        "metaTitle": "Chicano tattoo in Amiens, lettering and portraits | Fred-Ink",
+        "metaDesc": "Chicano tattoos in Amiens: faces, catrinas, roses, lettering in soft black and grey. Send your idea to Fred-Ink Tattoo Studio.",
+        "intro": "Women's faces, catrinas, roses and lettering: chicano in black and grey, with soft gradients and hand-drawn letters.",
+        "body": [
+          "Chicano is all about shading: deep blacks, very gradual greys, and lettering that has to stay readable for years.",
+          "A word, a name, a motto? Tell us what it means to you. The artist draws the letters so they belong to the rest of the piece.",
+          "Forearm, calf, upper arm: these areas leave enough room to keep the detail."
+        ]
+      },
+      "graphique": {
+        "name": "Graphic",
+        "short": "Blackwork, solid black, touches of red.",
+        "title": "Graphic and blackwork tattoos in Amiens",
+        "metaTitle": "Blackwork and graphic tattoo in Amiens | Fred-Ink",
+        "metaDesc": "Blackwork, solid black, sacred hearts, insects and touches of red: graphic tattoos by Fred-Ink Tattoo Studio in Amiens.",
+        "intro": "Solid black, clean lines, insects, sacred hearts, a bright red here and there: pieces you read at first glance.",
+        "body": [
+          "Graphic work plays on the contrast between skin and black. Well-packed black stays sharp for a very long time; it's one of the styles that ages best.",
+          "A single colour, often red, is enough to make the whole design pop. We'll discuss it depending on your skin and the placement.",
+          "These pieces are also a good route for covering an old tattoo: black covers a lot. See the cover-up page."
+        ]
+      },
+      "cover": {
+        "name": "Cover-up",
+        "short": "Covering or reworking an old tattoo.",
+        "title": "Tattoo cover-ups in Amiens",
+        "metaTitle": "Tattoo cover-up in Amiens: cover an old tattoo | Fred-Ink",
+        "metaDesc": "Tattoo cover-ups and touch-ups in Amiens. Send a photo of your old tattoo and the artist will tell you honestly what's possible.",
+        "intro": "An old tattoo that isn't you any more, a line that has blurred, a name you want gone: let's look together at what can be covered or reworked.",
+        "body": [
+          "It all starts with a sharp photo of the old tattoo in daylight. From that, the artist can see straight away what's possible and what isn't.",
+          "A cover-up is almost always bigger and darker than the original: dark areas, flowers, realism and graphic work suit it well. A very light or fine design won't hide anything.",
+          "If the tattoo is very heavy, a few laser sessions can lighten it first. The artist will tell you straight rather than promise a miracle.",
+          "Before and after photos of our cover-ups are coming to this page soon."
+        ]
+      }
+    }
+  },
+  "styleNav": { "others": "Other styles", "pieces": "Work in this style", "none": "Photos of this style are coming soon. Meanwhile, the studio's work is on Instagram.", "cta": "Send a {style} idea" },
+  "artists": {
+    "eyebrow": "The team",
+    "title": "The artists",
+    "lead": "Every artist has their own line. Look through their work and choose, or let us point you to the right person.",
+    "with": "A project with {name}",
+    "instagram": "Instagram",
+    "pieces": "Their work",
+    "noPieces": "Their full portfolio is on Instagram.",
+    "portraitSoon": "Portrait coming soon",
+    "styles": "Styles",
+    "pageTitle": "{name}, tattoo artist in Amiens",
+    "pageMetaTitle": "{name}, tattoo in Amiens | Fred-Ink Tattoo Studio",
+    "pageMetaDesc": "{name} tattoos at Fred-Ink Tattoo Studio, 25 rue du Général Leclerc, Amiens. Their work, styles, and a form to send them your idea.",
+    "pageLead": "{name} is part of the Fred-Ink team on rue du Général Leclerc. Their latest work is on Instagram; send your idea and {name} will get back to you.",
+    "back": "The whole team",
+    "others": "Other artists"
+  },
+  "projects": {
+    "eyebrow": "Work",
+    "title": "Pieces, not a gallery",
+    "lead": "Each piece with its style and placement. Filter by style or artist, and open a photo to see it full size.",
+    "filterStyle": "Style",
+    "filterArtist": "Artist",
+    "all": "All",
+    "count": "{n} pieces",
+    "zone": "Placement",
+    "sessions": "{n} session(s)",
+    "artist": "Artist",
+    "color": "Colour",
+    "bw": "Black and grey",
+    "open": "View full size: {alt}",
+    "close": "Close",
+    "prev": "Previous piece",
+    "next": "Next piece",
+    "similar": "An idea in this style",
+    "more": "Show more work",
+    "empty": "No pieces for this filter yet."
+  },
+  "zones": {
+    "avant-bras": "Forearm",
+    "bras": "Arm",
+    "epaule": "Shoulder and arm",
+    "main": "Forearm and hand",
+    "dos": "Upper back and neck",
+    "mollet": "Calf",
+    "poitrine": "Chest",
+    "omoplate": "Shoulder blade",
+    "bras-torse": "Arms and chest"
+  },
+  "reviews": {
+    "eyebrow": "Google reviews",
+    "title": "What your reviews keep saying",
+    "items": [
+      { "t": "The team", "p": "It's what clients mention most: the welcome, the good mood in the studio, and artists who take the time to explain." },
+      { "t": "The prices", "p": "Prices people find fair, given before anything starts. You know where you stand before the needle touches skin." }
+    ],
+    "link": "Read the reviews on Google"
+  },
+  "piercing": {
+    "eyebrow": "Piercing",
+    "title": "Two piercers, and jewellery galore",
+    "lead": "Ears, nose, lip, navel: our two piercers fit your jewellery with sterile equipment and walk you through aftercare before you leave.",
+    "from": "from {price}",
+    "priceOnSite": "Price at the studio",
+    "jewels": "Jewellery",
+    "jewelsText": "A wide choice of jewellery at the studio, for a first piercing or a change later. We'll tell you which materials suit a fresh piercing.",
+    "rdv": "Piercings are done at the studio, or by appointment over the phone.",
+    "more": "Services and aftercare",
+    "imageAlt": "Daith piercing with an engraved ring and a small ornamental tattoo by the ear",
+    "pageTitle": "Piercing in Amiens",
+    "pageMetaTitle": "Piercing in Amiens: ear, nose, lip, navel | Fred-Ink",
+    "pageMetaDesc": "Piercing in Amiens at Fred-Ink Tattoo Studio: lobe, helix, daith, nostril, septum, lip, navel. Two piercers, sterile equipment, plenty of jewellery.",
+    "care": "Piercing aftercare",
+    "careItems": [
+      "Wash your hands before touching the piercing.",
+      "Clean once or twice a day with the product recommended at the studio, without twisting the jewellery.",
+      "Avoid pools, the sea and baths for the first few weeks.",
+      "Don't change the jewellery before it has healed: drop by and we'll do it with you."
+    ],
+    "healing": "Healing takes from a few weeks for a lobe to several months for cartilage or a navel."
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "From idea to healed",
+    "steps": [
+      { "t": "You send your idea", "p": "The online form: your idea, placement, size and references. Or drop by the studio." },
+      { "t": "The artist gets back to you", "p": "By phone or email, to ask the right questions and tell you what's doable." },
+      { "t": "Consultation and quote", "p": "We refine the design together and set the price, length and date of the session." },
+      { "t": "The session", "p": "The stencil is checked on your skin before we start. Ask for a break whenever you like." },
+      { "t": "Aftercare", "p": "You leave with aftercare instructions. A question while it heals? Call us." }
+    ]
+  },
+  "hygiene": {
+    "eyebrow": "Hygiene and safety",
+    "title": "Clean, no discussion",
+    "items": [
+      { "t": "Single use", "p": "Needles, cartridges, gloves, covers: everything that touches skin is new, opened in front of you and thrown away after the session." },
+      { "t": "Cleaned, covered station", "p": "The station is disinfected and covered with fresh film between every client." },
+      { "t": "Compliant inks", "p": "Inks that comply with current European regulations for tattooing." },
+      { "t": "Mandatory training", "p": "In France, tattooers and piercers must complete hygiene training and declare their activity to the regional health agency." }
+    ],
+    "note": "Curious about the equipment? Ask and we'll show you."
+  },
+  "advice": {
+    "eyebrow": "Aftercare",
+    "title": "Before, during, after",
+    "groups": [
+      {
+        "t": "Before the session",
+        "items": [
+          "Sleep well and eat before you come.",
+          "No alcohol the day before or on the day.",
+          "Moisturise the area in the days before, and avoid sunburn.",
+          "Wear clothes that leave the area easy to reach."
+        ]
+      },
+      {
+        "t": "Aftercare",
+        "items": [
+          "Keep the film on for as long as the artist says.",
+          "Wash gently with lukewarm water and mild soap, pat dry.",
+          "Apply a thin layer of the recommended cream two or three times a day.",
+          "Don't scratch or pick at small scabs."
+        ]
+      },
+      {
+        "t": "Healing",
+        "items": [
+          "Allow two to four weeks for the surface of the skin.",
+          "No pools, sea, baths or sauna during that time.",
+          "Keep it out of the sun, then use high SPF all year round.",
+          "A touch-up is sometimes useful: we'll talk about it once the skin has fully healed."
+        ]
+      }
+    ]
+  },
+  "studio": {
+    "eyebrow": "The studio",
+    "title": "Nineteen years on rue du Général Leclerc",
+    "text": [
+      "Fred-Ink has been tattooing and piercing Amiens for nineteen years. What started around Fred has grown into a team of eight tattooers and two piercers, each with their own style.",
+      "Every now and then we open the doors for a studio night: piercing and jewellery offers, a prize draw, a drink. Dates are announced on Instagram."
+    ],
+    "cta": "Visit the studio",
+    "imageAlt": "Fred-Ink Tattoo studio shopfront, sign and window, rue du Général Leclerc in Amiens",
+    "photosSoon": "Interior photos coming soon"
+  },
+  "insta": { "eyebrow": "Instagram", "title": "This week's work", "follow": "Follow {handle}" },
+  "infos": {
+    "eyebrow": "Visit",
+    "title": "Find us",
+    "address": "Address",
+    "hours": "Opening hours",
+    "phone": "Phone",
+    "access": "Getting here",
+    "accessText": "On rue du Général Leclerc in Amiens. Come on foot, by bus or by bike; if you drive, park in the nearby streets.",
+    "directions": "Directions",
+    "rdv": "Appointments in person, by phone, or through the project form.",
+    "closed": "Closed",
+    "closures": "Exceptional closures"
+  },
+  "status": { "open": "Open", "closed": "Closed", "until": "until {time}", "reopens": "reopens {day} at {time}", "today": "today", "tomorrow": "tomorrow" },
+  "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "daysShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Before you go for it",
+    "items": [
+      { "q": "How much does a tattoo cost?", "a": "The price depends on size, placement, detail and the number of sessions. You get it before anything starts, at the consultation. Send your idea with a rough budget and the artist will tell you what's possible." },
+      { "q": "Is there a deposit?", "a": "A deposit may be asked to hold your session date; it's then taken off the final price. The amount comes with the quote." },
+      { "q": "I'm under 18, can I get tattooed?", "a": "In France, tattooing or piercing a minor requires written consent from a parent or legal guardian, who comes with you with their ID. The artist may turn down some designs or placements before 18." },
+      { "q": "Do you do cover-ups and touch-ups?", "a": "Yes. For a cover-up, send a sharp photo of the old tattoo and the artist will tell you honestly what can be covered. For a touch-up on a piece done at the studio, give us a call." },
+      { "q": "Does it hurt?", "a": "A little, and it depends on the area: ribs, feet or the inner arm are more sensitive than the shoulder or forearm. We take breaks whenever you need." },
+      { "q": "How long is a session?", "a": "From under an hour for a small piece to several hours for a large one. Sleeves are done over several sessions, a few weeks apart." },
+      { "q": "Can I walk in?", "a": "Drop by to talk about your idea or a piercing; tattoo sessions are by appointment. The easiest way: the online form, or a call." }
+    ]
+  },
+  "form": {
+    "eyebrow": "Project request",
+    "title": "Send my idea",
+    "metaTitle": "Send your tattoo idea | Fred-Ink Tattoo Studio Amiens",
+    "metaDesc": "Send your tattoo idea to Fred-Ink Tattoo Studio, Amiens: style, placement, size, references, budget. The artist will get back to you.",
+    "lead": "The more precise you are, the better the answer. It takes about five minutes. The artist gets back to you to talk it through; nothing is committed at this stage.",
+    "callInstead": "Rather talk it through?",
+    "s1": "The idea",
+    "s2": "The details",
+    "s3": "You",
+    "artist": "Preferred artist",
+    "anyArtist": "No preference, guide me",
+    "style": "Style",
+    "styleUnsure": "Not sure yet",
+    "idea": "Your idea",
+    "ideaHint": "What you'd like to show, what it means to you, the elements you absolutely want to keep.",
+    "zone": "Placement",
+    "zonePlaceholder": "Inner forearm, left shoulder blade…",
+    "size": "Approximate size",
+    "sizes": { "s": "Small (under 8 cm)", "m": "Medium (8 to 15 cm)", "l": "Large (15 to 25 cm)", "xl": "Very large, sleeve, back" },
+    "colour": "Colour",
+    "colours": { "bw": "Black and grey", "color": "Colour", "unsure": "To discuss with the artist" },
+    "first": "First tattoo?",
+    "yes": "Yes",
+    "no": "No",
+    "kind": "Type of project",
+    "kinds": { "new": "New piece", "cover": "Cover-up of an old tattoo", "rework": "Touch-up, extension" },
+    "photos": "Reference photos",
+    "photosHint": "Up to 3 images (references, the placement, the old tattoo for a cover-up).",
+    "addPhoto": "Add a photo",
+    "remove": "Remove",
+    "budget": "Rough budget",
+    "budgets": { "a": "Under €150", "b": "€150 to €300", "c": "€300 to €600", "d": "€600 to €1,000", "e": "Over €1,000", "u": "Not sure" },
+    "availability": "Your availability",
+    "availabilityHint": "Days and times that suit you, and how soon you'd like it.",
+    "name": "Full name",
+    "age": "Age",
+    "minor": "Under 18, a tattoo or piercing requires written consent from a parent or legal guardian, who must be present on the day with their ID. Some designs may be turned down for minors. You can still send your request.",
+    "phone": "Phone",
+    "email": "Email",
+    "consent": "I agree that the studio may use this information to contact me about my project.",
+    "required": "required",
+    "next": "Continue",
+    "back": "Back",
+    "send": "Send my idea",
+    "sending": "Sending…",
+    "errors": { "idea": "Describe your idea in a few words.", "zone": "Tell us the placement.", "size": "Choose a size.", "name": "Tell us your name.", "age": "Tell us your age.", "contact": "A valid phone number or email, so we can reply.", "consent": "Tick the box so we can contact you.", "photo": "This image couldn't be read.", "send": "Sending failed. Try again, or call the studio." },
+    "done": {
+      "title": "Thank you, it's sent",
+      "text": "Your idea has reached the studio. {artist} will get back to you to talk it through.",
+      "artistAny": "The best-suited artist",
+      "mail": "A summary has just been sent to {email}.",
+      "pending": "One last step: give us a call so we can find your request; the online form isn't connected to the studio's inbox yet.",
+      "seeWork": "Meanwhile, have a look at {handle}'s work on Instagram.",
+      "again": "Send another idea"
+    },
+    "deposit": "Online deposit: coming soon.",
+    "email_": {
+      "subject": "New project",
+      "confirmSubject": "Your idea at Fred-Ink Tattoo Studio",
+      "confirmIntro": "Hello {name},\n\nThank you for your idea. Here it is as we received it; the artist will get back to you to talk it through.",
+      "confirmOutro": "See you at the studio,\nFred-Ink Tattoo Studio\n25 rue du Général Leclerc, 80000 Amiens, France\n+33 3 60 24 54 62",
+      "labels": { "artist": "Artist", "style": "Style", "idea": "Idea", "zone": "Placement", "size": "Size", "colour": "Colour", "first": "First tattoo", "kind": "Type", "budget": "Budget", "availability": "Availability", "name": "Name", "age": "Age", "minor": "MINOR: written parental consent needed", "phone": "Phone", "email": "Email", "photos": "Attached photos", "lang": "Client language" }
+    }
+  },
+  "footer": {
+    "tagline": "Tattooing and piercing in Amiens for nineteen years.",
+    "contact": "The studio",
+    "hours": "Opening hours",
+    "artists": "The artists",
+    "styles": "Styles",
+    "rights": "Fred-Ink Tattoo Studio",
+    "legal": "Legal notice",
+    "days": "Tuesday to Friday",
+    "saturday": "Saturday",
+    "closed": "Closed Sunday and Monday"
+  },
+  "legal": {
+    "title": "Legal notice",
+    "metaDesc": "Legal notice and personal data for the Fred-Ink Tattoo Studio website, Amiens.",
+    "editor": "Publisher",
+    "editorText": "Fred-Ink Tattoo Studio, 25 rue du Général Leclerc, 80000 Amiens, France. Phone: +33 3 60 24 54 62.",
+    "pending": "Company name, SIRET and publication director: to be completed.",
+    "host": "Hosting",
+    "data": "Personal data",
+    "dataText": "The information and photos sent through the project form are used only to contact you about your tattoo or piercing. They are never sold or used for anything else, and are deleted on request. The site sets no advertising cookies.",
+    "photos": "Photos",
+    "photosText": "All photos belong to the studio and its artists and may not be reused without permission."
+  }
+}
