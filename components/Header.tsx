@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import site from "@/data/site.json";
 import { useLocale } from "@/components/providers";
 import { Logo } from "@/components/Logo";
@@ -16,6 +16,8 @@ export function Header() {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [panelTop, setPanelTop] = useState(0);
+  const headerRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 24);
@@ -76,8 +78,16 @@ export function Header() {
     </nav>
   );
 
+  useEffect(() => {
+    if (!open) return;
+    // Le panneau commence sous le header, quelle que soit la hauteur du bandeau au-dessus
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- mesure du DOM à l'ouverture
+    setPanelTop(headerRef.current?.getBoundingClientRect().bottom ?? 0);
+  }, [open]);
+
   return (
-    <header className={`sticky top-0 z-40 transition-[background-color,box-shadow] duration-500 ${scrolled || open ? "bg-ink/95 shadow-[0_1px_0_var(--color-line)] backdrop-blur" : "bg-ink"}`}>
+    // Pas de backdrop-blur quand le menu est ouvert : il ferait du header le bloc conteneur du panneau `fixed` (hauteur 0)
+    <header ref={headerRef} className={`sticky top-0 z-40 transition-[background-color,box-shadow] duration-500 ${open ? "bg-ink shadow-[0_1px_0_var(--color-line)]" : scrolled ? "bg-ink/95 shadow-[0_1px_0_var(--color-line)] backdrop-blur" : "bg-ink"}`}>
       <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:bg-ink focus:px-4 focus:py-2">
         {n.skip}
       </a>
@@ -118,7 +128,7 @@ export function Header() {
       </div>
 
       {open && (
-        <div id="menu" className="fade-in fixed inset-x-0 top-[4.5rem] bottom-0 z-40 overflow-y-auto bg-ink px-6 pt-6 pb-28 lg:hidden">
+        <div id="menu" style={{ top: panelTop }} className="fade-in fixed inset-x-0 bottom-0 z-40 overflow-y-auto bg-ink px-6 pt-6 pb-28 lg:hidden">
           <nav aria-label={n.menu}>
             <ul className="divide-y divide-line border-y border-line">
               {links.map((l) => (
